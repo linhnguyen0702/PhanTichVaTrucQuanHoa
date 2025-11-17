@@ -1,0 +1,1006 @@
+OrderID,Date,Product,Category,Quantity,Price,CustomerAge,CustomerGender,Region,PaymentMethod,Revenue,Month,Quarter
+103,2024-07-30,Laptop,Accessories,2,1796,40.0,Female,East,E-wallet,3592,7,3
+436,2024-06-13,Speaker,Accessories,3,738,59.0,Male,North,Cash,2214,6,2
+861,2024-08-19,Smartphone,Electronics,2,519,37.0,Male,South,E-wallet,1038,8,3
+271,2024-02-20,Speaker,Electronics,3,693,32.0,Female,West,Credit Card,2079,2,1
+107,2024-01-30,TV,Electronics,1,584,62.0,Male,North,Credit Card,584,1,1
+72,2024-06-28,Keyboard,Electronics,4,1782,46.0,Male,South,Cash,7128,6,2
+701,2024-07-08,Keyboard,Accessories,2,1874,25.0,Female,North,Credit Card,3748,7,3
+21,2024-12-17,Smartphone,Electronics,3,511,58.0,Female,West,Credit Card,1533,12,4
+615,2024-01-27,Camera,Electronics,1,1035,36.0,Female,South,Cash,1035,1,1
+122,2024-07-19,Camera,Electronics,1,1207,56.0,Male,East,E-wallet,1207,7,3
+467,2024-01-19,Tablet,Electronics,4,1236,63.0,Male,East,Cash,4944,1,1
+215,2024-08-13,Smartphone,Accessories,3,1860,45.0,Male,North,E-wallet,5580,8,3
+331,2024-06-13,Laptop,Electronics,2,431,63.0,Male,West,Cash,862,6,2
+459,2024-03-14,Camera,Accessories,4,1501,44.0,Male,South,E-wallet,6004,3,1
+88,2024-03-19,Smartwatch,Electronics,2,1878,21.0,Female,West,Cash,3756,3,1
+373,2024-12-17,Mouse,Electronics,1,754,32.0,Male,South,E-wallet,754,12,4
+100,2024-01-18,Laptop,Accessories,2,140,52.0,Male,North,Cash,280,1,1
+872,2024-02-13,TV,Electronics,2,1893,54.0,Male,South,E-wallet,3786,2,1
+664,2024-05-18,Smartwatch,Accessories,4,1058,18.0,Female,West,Cash,4232,5,2
+131,2024-12-24,Smartwatch,Accessories,2,1920,20.0,Female,West,Credit Card,3840,12,4
+662,2024-11-29,Smartphone,Electronics,4,204,64.0,Female,North,E-wallet,816,11,4
+309,2024-12-02,Tablet,Accessories,1,301,41.0,Male,West,Cash,301,12,4
+770,2024-02-21,TV,Accessories,4,549,44.0,Female,South,E-wallet,2196,2,1
+344,2024-03-01,Camera,Accessories,4,1942,57.0,Female,North,E-wallet,7768,3,1
+492,2024-04-30,Smartphone,Accessories,3,1966,53.0,Female,South,Cash,5898,4,2
+414,2024-10-26,Camera,Accessories,2,1389,51.0,Male,West,E-wallet,2778,10,4
+806,2024-08-02,Smartphone,Accessories,1,1009,46.0,Female,North,Cash,1009,8,3
+386,2024-11-17,Smartphone,Accessories,4,309,41.0,Male,South,Credit Card,1236,11,4
+192,2024-01-02,Smartphone,Accessories,1,662,41.0,Male,West,E-wallet,662,1,1
+277,2024-11-26,Tablet,Electronics,3,1241,59.0,Female,West,Credit Card,3723,11,4
+161,2024-02-19,Smartphone,Electronics,2,812,21.0,Male,East,E-wallet,1624,2,1
+460,2024-03-21,Headphones,Accessories,4,1500,20.0,Female,West,E-wallet,6000,3,1
+314,2024-10-27,Mouse,Electronics,2,1674,51.0,Male,South,E-wallet,3348,10,4
+22,2024-05-11,Camera,Accessories,3,1663,,Female,North,Cash,4989,5,2
+253,2024-12-09,Laptop,Accessories,3,870,40.0,Female,East,Credit Card,2610,12,4
+748,2024-08-09,Speaker,Electronics,1,1207,62.0,Female,West,E-wallet,1207,8,3
+857,2024-02-05,TV,Accessories,4,553,22.0,Male,West,Cash,2212,2,1
+561,2024-07-30,Keyboard,Accessories,1,766,48.0,Female,West,E-wallet,766,7,3
+475,2024-08-06,Tablet,Accessories,3,728,58.0,Male,South,Cash,2184,8,3
+59,2024-09-03,Laptop,Accessories,2,1637,23.0,Female,East,E-wallet,3274,9,3
+511,2024-09-28,Smartwatch,Electronics,1,1728,54.0,Male,South,Credit Card,1728,9,3
+682,2024-04-02,Headphones,Accessories,1,1801,27.0,Male,East,Credit Card,1801,4,2
+476,2024-02-05,Keyboard,Accessories,2,486,57.0,Female,North,E-wallet,972,2,1
+700,2024-09-10,Speaker,Accessories,1,1473,24.0,Female,South,Cash,1473,9,3
+783,2024-12-03,Laptop,Electronics,2,395,56.0,Female,South,E-wallet,790,12,4
+190,2024-03-06,Keyboard,Accessories,4,357,55.0,Female,North,Cash,1428,3,1
+687,2024-06-30,Laptop,Electronics,2,1204,38.0,Female,East,E-wallet,2408,6,2
+563,2024-08-22,Headphones,Electronics,4,367,37.0,Male,West,Cash,1468,8,3
+876,2024-04-27,Speaker,Accessories,2,518,20.0,Female,North,Credit Card,1036,4,2
+567,2024-08-20,Smartwatch,Accessories,3,334,39.0,Female,West,E-wallet,1002,8,3
+244,2024-06-05,Smartphone,Electronics,3,1956,64.0,Male,West,Credit Card,5868,6,2
+832,2024-02-12,Camera,Accessories,4,1434,21.0,Female,North,Credit Card,5736,2,1
+505,2024-03-29,Smartwatch,Electronics,4,1936,45.0,Female,East,E-wallet,7744,3,1
+131,2024-07-25,Smartphone,Electronics,3,1085,,Male,West,E-wallet,3255,7,3
+485,2024-03-26,Tablet,Accessories,4,1480,55.0,Female,North,Cash,5920,3,1
+819,2024-04-23,Mouse,Accessories,2,1336,53.0,Female,South,Cash,2672,4,2
+647,2024-05-08,TV,Electronics,2,673,64.0,Female,South,Credit Card,1346,5,2
+21,2024-07-15,TV,Electronics,3,148,58.0,Male,South,Cash,444,7,3
+841,2024-11-01,Camera,Electronics,1,1250,22.0,Female,North,Cash,1250,11,4
+167,2024-10-18,Speaker,Electronics,2,322,30.0,Male,South,E-wallet,644,10,4
+274,2024-01-30,Headphones,Accessories,4,1020,40.0,Female,West,Cash,4080,1,1
+388,2024-02-07,Speaker,Accessories,1,1402,47.0,Male,South,Credit Card,1402,2,1
+601,2024-04-09,Headphones,Accessories,1,1531,54.0,Female,South,Cash,1531,4,2
+316,2024-04-16,Speaker,Accessories,2,1628,42.0,Male,West,Credit Card,3256,4,2
+14,2024-01-27,Mouse,Accessories,2,1417,44.0,Male,South,E-wallet,2834,1,1
+242,2024-10-15,Tablet,Electronics,1,1919,31.0,Male,West,Credit Card,1919,10,4
+777,2024-05-24,Tablet,Accessories,1,376,64.0,Male,South,Cash,376,5,2
+346,2024-12-04,Smartphone,Accessories,3,1561,53.0,Male,West,E-wallet,4683,12,4
+565,2024-05-27,Keyboard,Accessories,4,1230,56.0,Male,South,Cash,4920,5,2
+898,2024-11-03,Tablet,Accessories,3,1781,33.0,Female,West,E-wallet,5343,11,4
+340,2024-09-25,Tablet,Accessories,2,519,39.0,Female,North,E-wallet,1038,9,3
+92,2024-01-30,Smartwatch,Electronics,3,710,38.0,Male,West,Cash,2130,1,1
+367,2024-10-05,Smartwatch,Electronics,3,1552,38.0,Male,South,Cash,4656,10,4
+455,2024-03-17,Smartphone,Electronics,3,474,25.0,Male,South,E-wallet,1422,3,1
+428,2024-11-20,Keyboard,Accessories,3,172,33.0,Male,East,E-wallet,516,11,4
+509,2024-07-12,Camera,Electronics,4,1757,48.0,Female,West,Cash,7028,7,3
+776,2024-10-16,Smartwatch,Electronics,4,1153,59.0,Male,North,Credit Card,4612,10,4
+943,2024-02-15,Camera,Accessories,1,1311,27.0,Female,West,Cash,1311,2,1
+35,2024-05-07,Laptop,Accessories,2,1487,49.0,Female,West,E-wallet,2974,5,2
+206,2024-01-20,Smartwatch,Accessories,3,1989,51.0,Male,North,Cash,5967,1,1
+81,2024-06-26,Mouse,Electronics,1,1923,26.0,Male,West,Credit Card,1923,6,2
+932,2024-03-24,Keyboard,Electronics,1,1574,34.0,Female,North,Cash,1574,3,1
+562,2024-03-23,Smartphone,Accessories,1,294,28.0,Female,North,E-wallet,294,3,1
+872,2024-02-11,Laptop,Accessories,4,1279,49.0,Male,West,Cash,5116,2,1
+388,2024-02-21,Keyboard,Electronics,3,1295,27.0,Male,West,E-wallet,3885,2,1
+2,2024-06-28,Mouse,Electronics,3,946,39.0,Male,South,E-wallet,2838,6,2
+390,2024-06-18,Keyboard,Accessories,2,1164,34.0,Female,South,Cash,2328,6,2
+566,2024-11-05,Mouse,Accessories,3,1186,21.0,Female,East,E-wallet,3558,11,4
+106,2024-02-26,Mouse,Electronics,3,122,64.0,Male,East,E-wallet,366,2,1
+772,2024-01-21,Camera,Accessories,1,459,42.0,Female,West,Credit Card,459,1,1
+822,2024-04-04,Speaker,Electronics,2,1198,38.0,Female,North,Credit Card,2396,4,2
+477,2024-03-23,Laptop,Electronics,3,659,54.0,Male,East,Credit Card,1977,3,1
+703,2024-02-09,Keyboard,Electronics,4,771,55.0,Male,West,Credit Card,3084,2,1
+402,2024-12-20,Headphones,Electronics,3,1948,18.0,Female,East,E-wallet,5844,12,4
+730,2024-08-01,Laptop,Accessories,1,1241,42.0,Female,North,Cash,1241,8,3
+556,2024-05-22,Speaker,Accessories,4,1735,53.0,Male,West,E-wallet,6940,5,2
+162,2024-03-21,Laptop,Electronics,1,1503,34.0,Male,North,E-wallet,1503,3,1
+202,2024-06-11,Tablet,Electronics,3,778,58.0,Male,West,E-wallet,2334,6,2
+270,2024-05-20,Headphones,Electronics,4,1413,41.0,Male,East,Cash,5652,5,2
+863,2024-06-05,Speaker,Electronics,2,539,19.0,Male,South,Credit Card,1078,6,2
+816,2024-12-17,Camera,Electronics,2,1791,57.0,Female,East,E-wallet,3582,12,4
+271,2024-12-31,Keyboard,Accessories,4,1032,32.0,Female,East,E-wallet,4128,12,4
+456,2024-11-30,TV,Accessories,4,106,49.0,Female,South,Credit Card,424,11,4
+462,2024-10-24,Speaker,Accessories,1,1319,56.0,Female,South,E-wallet,1319,10,4
+727,2024-12-07,Smartphone,Accessories,4,520,23.0,Male,West,Cash,2080,12,4
+252,2024-08-15,Keyboard,Electronics,1,1691,18.0,Male,West,E-wallet,1691,8,3
+702,2024-12-12,Speaker,Electronics,3,932,64.0,Male,North,E-wallet,2796,12,4
+296,2024-08-10,Tablet,Electronics,1,1316,40.0,Female,North,Credit Card,1316,8,3
+725,2024-01-11,TV,Electronics,4,658,56.0,Female,East,E-wallet,2632,1,1
+720,2024-04-03,Tablet,Electronics,4,1271,34.0,Female,South,E-wallet,5084,4,2
+749,2024-06-14,TV,Accessories,3,1910,51.0,Male,North,Cash,5730,6,2
+338,2024-04-14,Smartphone,Electronics,4,1792,58.0,Female,East,Credit Card,7168,4,2
+879,2024-11-30,Keyboard,Accessories,4,1325,46.0,Male,South,Credit Card,5300,11,4
+53,2024-02-24,Camera,Accessories,2,1567,26.0,Male,West,Cash,3134,2,1
+792,2024-07-26,Tablet,Accessories,2,1013,30.0,Male,East,E-wallet,2026,7,3
+922,2024-11-19,Tablet,Accessories,3,1542,23.0,Male,West,Credit Card,4626,11,4
+217,2024-06-11,Mouse,Electronics,1,1550,23.0,Male,North,Credit Card,1550,6,2
+764,2024-01-21,TV,Accessories,2,1106,37.0,Male,North,E-wallet,2212,1,1
+188,2024-06-28,Smartwatch,Accessories,1,1602,20.0,Female,South,E-wallet,1602,6,2
+380,2024-10-19,Keyboard,Accessories,4,1598,34.0,Male,East,Credit Card,6392,10,4
+493,2024-09-24,TV,Electronics,2,225,29.0,Male,West,E-wallet,450,9,3
+41,2024-02-15,Mouse,Electronics,3,494,64.0,Female,South,Credit Card,1482,2,1
+157,2024-11-14,Laptop,Electronics,3,916,62.0,Male,North,E-wallet,2748,11,4
+15,2024-01-26,TV,Accessories,3,980,18.0,Female,North,E-wallet,2940,1,1
+813,2024-03-17,Camera,Accessories,2,1929,34.0,Female,East,Cash,3858,3,1
+65,2024-09-13,Keyboard,Electronics,1,675,20.0,Female,West,E-wallet,675,9,3
+857,2024-02-05,Mouse,Accessories,4,424,43.0,Male,East,Cash,1696,2,1
+839,2024-09-26,Laptop,Electronics,1,1515,32.0,Male,West,E-wallet,1515,9,3
+521,2024-04-06,Headphones,Electronics,1,1029,53.0,Female,West,Credit Card,1029,4,2
+344,2024-04-24,Mouse,Accessories,4,1811,49.0,Male,East,Credit Card,7244,4,2
+129,2024-08-20,Headphones,Accessories,4,1751,49.0,Male,South,E-wallet,7004,8,3
+648,2024-05-27,Keyboard,Accessories,2,1563,21.0,Female,East,E-wallet,3126,5,2
+472,2024-05-23,Tablet,Accessories,2,1327,35.0,Female,East,Credit Card,2654,5,2
+63,2024-11-27,Mouse,Electronics,2,1609,36.0,Male,North,E-wallet,3218,11,4
+139,2024-11-22,Smartphone,Electronics,2,932,60.0,Female,North,Cash,1864,11,4
+499,2024-03-03,Headphones,Electronics,2,1154,52.0,Female,East,Cash,2308,3,1
+593,2024-02-08,Camera,Electronics,4,1511,57.0,Female,East,Cash,6044,2,1
+392,2024-08-23,Smartphone,Electronics,1,1748,31.0,Male,North,Cash,1748,8,3
+675,2024-10-30,Speaker,Accessories,2,1557,50.0,Male,West,Cash,3114,10,4
+419,2024-12-20,Speaker,Electronics,2,936,31.0,Male,East,E-wallet,1872,12,4
+289,2024-01-20,Laptop,Electronics,1,1025,51.0,Female,South,E-wallet,1025,1,1
+379,2024-02-22,Tablet,Electronics,2,1499,21.0,Male,South,Cash,2998,2,1
+773,2024-01-08,Keyboard,Accessories,1,1467,41.0,Female,South,E-wallet,1467,1,1
+490,2024-03-22,Mouse,Accessories,1,542,46.0,Male,East,E-wallet,542,3,1
+231,2024-03-21,Smartwatch,Accessories,4,1702,36.0,Male,West,Cash,6808,3,1
+41,2024-08-07,Camera,Accessories,3,174,23.0,Female,West,E-wallet,522,8,3
+28,2024-04-24,Headphones,Electronics,4,656,50.0,Male,North,E-wallet,2624,4,2
+135,2024-02-21,Keyboard,Electronics,3,1895,57.0,Female,East,E-wallet,5685,2,1
+201,2024-10-13,Smartphone,Accessories,3,1789,36.0,Male,West,Cash,5367,10,4
+840,2024-06-12,Speaker,Accessories,3,1278,18.0,Male,East,E-wallet,3834,6,2
+780,2024-04-05,Camera,Electronics,2,1553,22.0,Female,North,Credit Card,3106,4,2
+930,2024-09-22,Smartwatch,Electronics,4,462,44.0,Female,North,Credit Card,1848,9,3
+33,2024-02-07,Mouse,Accessories,3,547,33.0,Female,North,Cash,1641,2,1
+48,2024-07-28,Laptop,Accessories,1,1357,23.0,Male,South,Credit Card,1357,7,3
+503,2024-01-31,Smartwatch,Accessories,2,1686,57.0,Male,East,Cash,3372,1,1
+407,2024-03-27,Camera,Accessories,4,1941,30.0,Male,North,Credit Card,7764,3,1
+574,2024-08-20,Smartwatch,Electronics,3,361,52.0,Female,East,Credit Card,1083,8,3
+728,2024-12-12,Camera,Electronics,1,1950,36.0,Female,South,Credit Card,1950,12,4
+805,2024-01-15,Camera,Electronics,4,224,29.0,Female,South,Cash,896,1,1
+99,2024-02-25,TV,Accessories,4,1010,33.0,Male,North,Cash,4040,2,1
+684,2024-04-20,Headphones,Accessories,2,344,60.0,Male,North,E-wallet,688,4,2
+872,2024-08-22,Speaker,Electronics,4,641,27.0,Female,West,Cash,2564,8,3
+726,2024-07-03,TV,Electronics,2,584,42.0,Male,East,Credit Card,1168,7,3
+547,2024-03-09,Mouse,Electronics,3,221,37.0,Female,North,Credit Card,663,3,1
+739,2024-03-28,TV,Electronics,2,224,48.0,Male,West,Cash,448,3,1
+613,2024-04-26,Tablet,Accessories,1,1672,21.0,Male,East,Cash,1672,4,2
+943,2024-01-07,Tablet,Electronics,2,269,61.0,Female,North,Cash,538,1,1
+462,2024-01-21,Speaker,Electronics,1,223,40.0,Male,West,E-wallet,223,1,1
+643,2024-03-17,Smartwatch,Electronics,2,1992,19.0,Male,West,Credit Card,3984,3,1
+769,2024-10-07,Headphones,Electronics,4,1158,39.0,Female,East,E-wallet,4632,10,4
+5,2024-02-16,Speaker,Electronics,3,1210,54.0,Female,West,E-wallet,3630,2,1
+218,2024-03-03,Camera,Electronics,1,745,25.0,Male,East,Credit Card,745,3,1
+503,2024-11-17,Smartphone,Electronics,2,1831,24.0,Female,East,Credit Card,3662,11,4
+767,2024-11-05,Headphones,Accessories,2,885,31.0,Male,East,Cash,1770,11,4
+398,2024-03-30,Headphones,Accessories,2,300,20.0,Female,South,Cash,600,3,1
+871,2024-12-31,Camera,Accessories,4,468,33.0,Male,West,E-wallet,1872,12,4
+795,2024-12-27,Camera,Accessories,4,896,36.0,Male,East,Cash,3584,12,4
+393,2024-07-13,Laptop,Electronics,1,176,35.0,Female,North,Cash,176,7,3
+207,2024-09-26,Speaker,Accessories,1,158,33.0,Male,South,Credit Card,158,9,3
+15,2024-04-13,Camera,Accessories,4,530,25.0,Male,South,Credit Card,2120,4,2
+858,2024-08-24,Tablet,Electronics,1,737,50.0,Female,West,Cash,737,8,3
+554,2024-07-01,Mouse,Electronics,3,1623,29.0,Female,East,Credit Card,4869,7,3
+892,2024-09-05,Smartphone,Accessories,3,208,28.0,Male,West,Cash,624,9,3
+461,2024-10-22,Speaker,Accessories,4,1859,22.0,Female,South,Credit Card,7436,10,4
+691,2024-10-10,Keyboard,Electronics,1,1107,44.0,Female,East,Credit Card,1107,10,4
+575,2024-12-01,Tablet,Accessories,2,1401,29.0,Male,North,Credit Card,2802,12,4
+864,2024-07-30,Smartwatch,Electronics,3,167,34.0,Male,East,Credit Card,501,7,3
+743,2024-06-01,Camera,Electronics,4,1192,23.0,Female,South,Cash,4768,6,2
+241,2024-04-18,Keyboard,Electronics,1,1288,50.0,Female,North,E-wallet,1288,4,2
+564,2024-09-08,Camera,Electronics,4,1612,22.0,Female,East,Credit Card,6448,9,3
+96,2024-09-08,Headphones,Accessories,2,404,45.0,Male,North,Cash,808,9,3
+900,2024-08-12,Tablet,Electronics,3,773,31.0,Male,North,Cash,2319,8,3
+734,2024-10-14,Headphones,Electronics,4,464,22.0,Male,South,Credit Card,1856,10,4
+485,2024-04-25,Laptop,Accessories,4,1977,50.0,Male,North,E-wallet,7908,4,2
+407,2024-10-31,Headphones,Electronics,4,920,58.0,Male,West,Credit Card,3680,10,4
+231,2024-09-11,Laptop,Accessories,2,1502,36.0,Male,South,Cash,3004,9,3
+749,2024-10-31,Laptop,Accessories,4,442,39.0,Male,West,E-wallet,1768,10,4
+655,2024-09-30,Keyboard,Accessories,2,1046,22.0,Female,North,Cash,2092,9,3
+171,2024-08-12,Camera,Electronics,2,998,19.0,Female,West,Credit Card,1996,8,3
+541,2024-08-29,Smartwatch,Accessories,2,1677,47.0,Male,East,E-wallet,3354,8,3
+36,2024-09-23,Headphones,Accessories,3,1477,64.0,Male,North,Cash,4431,9,3
+525,2024-12-16,Tablet,Electronics,3,1539,56.0,Male,East,Cash,4617,12,4
+160,2024-07-21,Laptop,Accessories,4,1232,21.0,Female,West,Cash,4928,7,3
+839,2024-09-21,Camera,Accessories,4,1686,50.0,Male,East,Credit Card,6744,9,3
+699,2024-10-13,Smartphone,Accessories,3,861,30.0,Female,North,E-wallet,2583,10,4
+243,2024-03-11,Speaker,Accessories,1,1620,37.0,Female,East,Credit Card,1620,3,1
+86,2024-05-21,Keyboard,Accessories,3,440,24.0,Female,West,Credit Card,1320,5,2
+796,2024-01-10,Smartwatch,Electronics,2,1041,32.0,Female,West,Credit Card,2082,1,1
+578,2024-04-07,TV,Accessories,3,482,40.0,Female,West,E-wallet,1446,4,2
+682,2024-01-29,Keyboard,Accessories,2,1103,31.0,Male,North,Credit Card,2206,1,1
+557,2024-01-08,Smartphone,Electronics,4,1656,40.0,Male,West,Credit Card,6624,1,1
+574,2024-04-06,Speaker,Electronics,1,399,36.0,Female,North,Credit Card,399,4,2
+646,2024-07-15,Smartphone,Electronics,4,238,46.0,Male,East,Credit Card,952,7,3
+796,2024-11-23,Headphones,Accessories,2,458,37.0,Female,West,Cash,916,11,4
+28,2024-06-19,Laptop,Electronics,2,935,46.0,Female,East,Credit Card,1870,6,2
+620,2024-09-07,Smartwatch,Accessories,2,1622,41.0,Male,South,Cash,3244,9,3
+556,2024-01-13,Mouse,Accessories,1,1508,35.0,Male,East,Credit Card,1508,1,1
+340,2024-04-01,Laptop,Electronics,3,1727,27.0,Male,South,E-wallet,5181,4,2
+798,2024-11-10,Mouse,Electronics,4,1403,58.0,Male,East,Cash,5612,11,4
+331,2024-11-19,Speaker,Accessories,4,1760,25.0,Male,North,Cash,7040,11,4
+640,2024-12-22,Camera,Electronics,3,582,43.0,Female,East,Cash,1746,12,4
+506,2024-01-28,TV,Accessories,4,1008,,Male,North,Cash,4032,1,1
+348,2024-12-09,Tablet,Electronics,1,1234,,Male,North,E-wallet,1234,12,4
+473,2024-04-01,Laptop,Electronics,4,965,34.0,Male,West,Credit Card,3860,4,2
+231,2024-04-17,Smartwatch,Electronics,2,238,19.0,Female,North,Cash,476,4,2
+190,2024-11-21,Smartphone,Accessories,3,1095,23.0,Male,South,E-wallet,3285,11,4
+225,2024-02-08,Smartwatch,Electronics,1,534,22.0,Female,West,Cash,534,2,1
+385,2024-07-04,Speaker,Accessories,3,608,45.0,Male,West,Credit Card,1824,7,3
+377,2024-07-24,Mouse,Accessories,1,372,58.0,Male,East,Cash,372,7,3
+283,2024-06-03,Smartphone,Accessories,2,1222,22.0,Female,North,E-wallet,2444,6,2
+633,2024-09-24,Tablet,Accessories,3,1887,35.0,Male,North,Credit Card,5661,9,3
+628,2024-05-21,Tablet,Electronics,4,1973,43.0,Male,South,E-wallet,7892,5,2
+745,2024-12-16,Laptop,Accessories,1,203,37.0,Female,East,Credit Card,203,12,4
+259,2024-12-02,Speaker,Accessories,3,1337,58.0,Male,East,Credit Card,4011,12,4
+359,2024-07-26,Camera,Electronics,4,1884,44.0,Female,West,Credit Card,7536,7,3
+710,2024-09-06,Speaker,Accessories,3,1787,29.0,Female,West,Cash,5361,9,3
+456,2024-10-07,Mouse,Electronics,3,861,24.0,Female,West,E-wallet,2583,10,4
+411,2024-09-30,Smartwatch,Accessories,3,886,20.0,Female,South,E-wallet,2658,9,3
+649,2024-03-19,Tablet,Electronics,1,264,27.0,Female,South,E-wallet,264,3,1
+318,2024-06-02,Smartwatch,Accessories,4,1098,,Male,West,Credit Card,4392,6,2
+677,2024-11-27,Smartwatch,Electronics,2,1976,42.0,Male,East,Cash,3952,11,4
+225,2024-03-12,Smartwatch,Accessories,1,619,52.0,Male,South,Credit Card,619,3,1
+819,2024-12-08,Tablet,Accessories,1,1407,33.0,Female,East,E-wallet,1407,12,4
+234,2024-12-17,Keyboard,Electronics,1,616,19.0,Female,East,Cash,616,12,4
+684,2024-06-03,Headphones,Electronics,2,756,41.0,Female,North,Cash,1512,6,2
+664,2024-05-22,Mouse,Electronics,4,712,27.0,Female,West,Cash,2848,5,2
+827,2024-11-16,Keyboard,Electronics,4,263,55.0,Male,North,E-wallet,1052,11,4
+374,2024-08-24,Mouse,Accessories,4,1782,39.0,Male,West,Cash,7128,8,3
+672,2024-06-23,Smartphone,Accessories,3,163,43.0,Female,West,Cash,489,6,2
+608,2024-12-09,Speaker,Electronics,3,1214,60.0,Female,East,Credit Card,3642,12,4
+472,2024-11-28,Speaker,Accessories,3,1240,56.0,Male,West,Credit Card,3720,11,4
+233,2024-09-22,TV,Electronics,2,1989,44.0,Female,East,Cash,3978,9,3
+692,2024-12-09,Speaker,Electronics,3,366,46.0,Female,East,Cash,1098,12,4
+113,2024-03-02,Tablet,Accessories,2,1945,64.0,Female,West,Credit Card,3890,3,1
+830,2024-02-16,Camera,Accessories,4,1808,55.0,Male,East,Credit Card,7232,2,1
+497,2024-03-11,Laptop,Accessories,3,1682,37.0,Male,East,Credit Card,5046,3,1
+442,2024-03-31,TV,Accessories,3,1263,44.0,Female,East,E-wallet,3789,3,1
+564,2024-04-14,Laptop,Accessories,1,345,58.0,Male,South,E-wallet,345,4,2
+268,2024-02-11,Mouse,Accessories,2,1784,37.0,Female,East,Credit Card,3568,2,1
+510,2024-10-07,Laptop,Accessories,4,1881,61.0,Female,South,Cash,7524,10,4
+807,2024-04-13,Laptop,Electronics,1,494,36.0,Male,South,Credit Card,494,4,2
+386,2024-01-12,TV,Electronics,1,1610,37.0,Female,East,E-wallet,1610,1,1
+387,2024-04-17,Smartphone,Electronics,4,575,52.0,Female,East,Cash,2300,4,2
+113,2024-11-29,Smartwatch,Electronics,1,1640,64.0,Male,South,E-wallet,1640,11,4
+613,2024-09-13,Speaker,Electronics,2,1076,19.0,Female,,Cash,2152,9,3
+625,2024-02-18,Speaker,Accessories,2,1307,47.0,Female,East,E-wallet,2614,2,1
+81,2024-07-10,Tablet,Electronics,3,1143,51.0,Female,East,Cash,3429,7,3
+699,2024-09-03,TV,Electronics,1,657,39.0,Male,West,Cash,657,9,3
+113,2024-11-08,Tablet,Electronics,3,1117,20.0,Female,South,Cash,3351,11,4
+2,2024-11-05,Camera,Electronics,1,1647,23.0,Male,South,Cash,1647,11,4
+642,2024-10-26,Camera,Electronics,2,1705,32.0,Female,West,E-wallet,3410,10,4
+220,2024-02-18,Tablet,Electronics,2,1652,44.0,Female,South,E-wallet,3304,2,1
+566,2024-05-15,TV,Electronics,2,982,27.0,Female,North,Cash,1964,5,2
+855,2024-01-04,Tablet,Accessories,1,246,26.0,Female,South,Cash,246,1,1
+736,2024-07-15,Speaker,Accessories,2,765,50.0,Male,West,E-wallet,1530,7,3
+225,2024-06-20,Keyboard,Electronics,1,1427,49.0,Male,North,Cash,1427,6,2
+385,2024-05-06,Headphones,Accessories,3,719,23.0,Female,East,Cash,2157,5,2
+403,2024-11-05,Laptop,Accessories,1,1871,58.0,Female,West,Cash,1871,11,4
+638,2024-05-01,Headphones,Accessories,3,919,53.0,Female,West,Credit Card,2757,5,2
+130,2024-05-10,TV,Accessories,1,963,19.0,Female,East,Cash,963,5,2
+53,2024-04-24,Headphones,Electronics,3,681,46.0,Female,West,Credit Card,2043,4,2
+684,2024-06-17,Camera,Accessories,2,1122,21.0,Female,South,Cash,2244,6,2
+730,2024-01-05,Mouse,Accessories,3,794,18.0,Female,East,E-wallet,2382,1,1
+672,2024-12-19,Laptop,Accessories,2,1885,36.0,Female,West,Credit Card,3770,12,4
+710,2024-04-02,Smartwatch,Electronics,2,1351,43.0,Male,East,Credit Card,2702,4,2
+416,2024-05-15,TV,Electronics,3,1225,42.0,Male,East,Cash,3675,5,2
+247,2024-12-15,Laptop,Electronics,1,1710,27.0,Male,East,Cash,1710,12,4
+836,2024-11-29,Headphones,Electronics,1,1540,32.0,Female,North,Credit Card,1540,11,4
+439,2024-07-19,Camera,Electronics,4,1339,39.0,Female,West,E-wallet,5356,7,3
+203,2024-07-27,Smartphone,Electronics,1,506,38.0,Female,North,E-wallet,506,7,3
+184,2024-09-25,Keyboard,Electronics,4,498,39.0,Male,West,Cash,1992,9,3
+123,2024-11-07,Smartwatch,Accessories,1,814,53.0,Female,South,E-wallet,814,11,4
+401,2024-09-29,Keyboard,Accessories,1,803,51.0,Male,South,E-wallet,803,9,3
+767,2024-02-14,Laptop,Accessories,2,860,47.0,Female,South,Cash,1720,2,1
+294,2024-09-27,Camera,Electronics,4,598,42.0,Male,West,E-wallet,2392,9,3
+280,2024-11-01,Camera,Electronics,1,1877,62.0,Male,East,Cash,1877,11,4
+837,2024-01-29,Headphones,Electronics,4,1588,45.0,Male,East,Credit Card,6352,1,1
+884,2024-08-11,Speaker,Electronics,2,1814,18.0,Female,North,Cash,3628,8,3
+610,2024-06-11,Headphones,Electronics,2,1073,62.0,Male,North,Credit Card,2146,6,2
+198,2024-10-06,Speaker,Accessories,4,1854,21.0,Female,South,Credit Card,7416,10,4
+907,2024-10-14,Speaker,Accessories,2,181,24.0,Female,North,E-wallet,362,10,4
+511,2024-09-19,Smartwatch,Electronics,3,703,26.0,Female,West,E-wallet,2109,9,3
+752,2024-07-22,Headphones,Electronics,3,1810,53.0,Female,West,E-wallet,5430,7,3
+144,2024-05-22,Smartphone,Electronics,2,1874,36.0,Female,North,Cash,3748,5,2
+609,2024-07-16,Tablet,Electronics,3,871,18.0,Male,North,E-wallet,2613,7,3
+201,2024-07-11,Tablet,Accessories,1,1002,27.0,Female,,Credit Card,1002,7,3
+124,2024-06-01,Headphones,Electronics,4,464,53.0,Female,North,E-wallet,1856,6,2
+187,2024-05-25,Headphones,Electronics,1,262,26.0,Female,South,E-wallet,262,5,2
+326,2024-12-05,Keyboard,Electronics,4,1171,62.0,Female,South,Cash,4684,12,4
+464,2024-01-12,Smartwatch,Electronics,2,610,63.0,Female,North,Cash,1220,1,1
+349,2024-05-19,Headphones,Accessories,1,1452,59.0,Male,West,Credit Card,1452,5,2
+771,2024-03-23,Keyboard,Electronics,2,1963,49.0,Male,South,Cash,3926,3,1
+660,2024-10-31,Speaker,Electronics,2,215,49.0,Female,West,E-wallet,430,10,4
+764,2024-09-09,Camera,Accessories,4,1040,23.0,Male,East,Cash,4160,9,3
+932,2024-07-03,Camera,Accessories,4,1972,55.0,Male,West,Credit Card,7888,7,3
+403,2024-08-07,Speaker,Accessories,4,436,34.0,Female,North,E-wallet,1744,8,3
+346,2024-01-07,TV,Electronics,1,980,27.0,Male,East,Credit Card,980,1,1
+511,2024-04-17,Keyboard,Electronics,3,836,44.0,Female,South,Cash,2508,4,2
+147,2024-03-14,Keyboard,Accessories,4,1987,52.0,Male,South,Cash,7948,3,1
+148,2024-08-16,Speaker,Accessories,4,939,38.0,Male,East,Credit Card,3756,8,3
+864,2024-04-10,Smartphone,Accessories,1,246,42.0,Male,West,E-wallet,246,4,2
+711,2024-09-01,Mouse,Accessories,4,1698,45.0,Female,South,Cash,6792,9,3
+820,2024-08-02,Laptop,Accessories,1,1929,64.0,Male,North,Cash,1929,8,3
+489,2024-05-09,Speaker,Accessories,2,1446,32.0,Male,East,E-wallet,2892,5,2
+929,2024-07-05,Headphones,Electronics,4,542,21.0,Female,North,Cash,2168,7,3
+936,2024-12-15,Headphones,Electronics,4,936,46.0,Female,East,Credit Card,3744,12,4
+640,2024-07-29,Smartwatch,Electronics,2,1136,26.0,Male,South,Cash,2272,7,3
+551,2024-03-24,Speaker,Accessories,2,1042,44.0,Female,West,Cash,2084,3,1
+338,2024-02-20,Smartwatch,Accessories,2,1617,43.0,Male,East,E-wallet,3234,2,1
+872,2024-05-15,Speaker,Accessories,4,1824,36.0,Male,East,Credit Card,7296,5,2
+641,2024-06-23,Keyboard,Accessories,3,386,45.0,Female,North,E-wallet,1158,6,2
+779,2024-11-24,Laptop,Accessories,3,819,34.0,Female,South,Cash,2457,11,4
+473,2024-02-26,Keyboard,Accessories,3,1237,60.0,Female,North,Cash,3711,2,1
+946,2024-03-06,Mouse,Electronics,4,579,58.0,Male,South,E-wallet,2316,3,1
+151,2024-05-10,Camera,Electronics,2,121,59.0,Female,North,E-wallet,242,5,2
+415,2024-04-03,Tablet,Accessories,4,1472,37.0,Male,East,E-wallet,5888,4,2
+298,2024-05-26,Speaker,Electronics,2,1849,62.0,Female,,Credit Card,3698,5,2
+611,2024-01-19,Mouse,Accessories,4,782,57.0,Male,West,Cash,3128,1,1
+263,2024-08-10,Camera,Electronics,4,1958,56.0,Female,South,E-wallet,7832,8,3
+764,2024-05-01,TV,Accessories,2,1689,40.0,Male,South,Cash,3378,5,2
+144,2024-03-31,Laptop,Accessories,3,1005,64.0,Female,East,Credit Card,3015,3,1
+346,2024-07-28,Smartwatch,Electronics,2,1933,49.0,Male,South,Credit Card,3866,7,3
+624,2024-03-10,Smartwatch,Electronics,1,419,64.0,Female,West,Credit Card,419,3,1
+572,2024-04-06,Keyboard,Accessories,1,225,50.0,Female,North,Credit Card,225,4,2
+881,2024-02-08,Headphones,Accessories,2,376,63.0,Male,East,Cash,752,2,1
+2,2024-12-03,Camera,Electronics,4,1327,22.0,Female,West,Credit Card,5308,12,4
+897,2024-09-17,TV,Electronics,1,293,60.0,Male,South,Credit Card,293,9,3
+304,2024-05-30,Mouse,Accessories,1,1804,51.0,Male,South,E-wallet,1804,5,2
+254,2024-03-12,Laptop,Electronics,4,1787,57.0,Female,West,Credit Card,7148,3,1
+652,2024-11-20,Camera,Accessories,4,1670,28.0,Male,North,E-wallet,6680,11,4
+453,2024-06-19,TV,Accessories,3,795,20.0,Female,North,Credit Card,2385,6,2
+37,2024-02-24,Tablet,Accessories,4,1409,50.0,Female,East,Credit Card,5636,2,1
+160,2024-05-11,Speaker,Accessories,2,156,28.0,Male,South,E-wallet,312,5,2
+9,2024-07-05,Smartwatch,Electronics,2,1857,33.0,Female,West,Credit Card,3714,7,3
+233,2024-07-07,Mouse,Electronics,3,1426,35.0,Male,North,Cash,4278,7,3
+99,2024-03-18,Smartwatch,Electronics,1,1286,47.0,Male,East,Cash,1286,3,1
+659,2024-09-09,Mouse,Electronics,1,118,27.0,Female,South,Credit Card,118,9,3
+816,2024-05-06,Keyboard,Electronics,4,1493,35.0,Female,South,Cash,5972,5,2
+208,2024-05-04,Headphones,Electronics,2,363,55.0,Male,East,E-wallet,726,5,2
+131,2024-12-30,Mouse,Electronics,1,893,36.0,Male,East,Credit Card,893,12,4
+404,2024-09-25,Smartwatch,Accessories,3,212,53.0,Female,North,Credit Card,636,9,3
+152,2024-08-11,Keyboard,Electronics,3,1611,30.0,Female,West,E-wallet,4833,8,3
+54,2024-04-18,Mouse,Electronics,2,1450,63.0,Female,South,E-wallet,2900,4,2
+120,2024-07-25,Tablet,Accessories,3,641,20.0,Female,West,E-wallet,1923,7,3
+673,2024-08-29,Headphones,Electronics,3,746,27.0,Male,South,Credit Card,2238,8,3
+920,2024-07-05,Mouse,Electronics,2,678,55.0,Female,South,E-wallet,1356,7,3
+628,2024-07-12,Keyboard,Accessories,4,1188,18.0,Male,West,E-wallet,4752,7,3
+587,2024-10-25,Camera,Electronics,4,1415,44.0,Male,East,Cash,5660,10,4
+625,2024-10-25,Smartphone,Electronics,3,124,63.0,Female,North,Cash,372,10,4
+420,2024-11-06,TV,Electronics,4,1672,25.0,Male,South,Credit Card,6688,11,4
+422,2024-04-17,Smartphone,Accessories,4,100,63.0,Female,East,Cash,400,4,2
+104,2024-03-29,Smartphone,Electronics,3,1010,59.0,Male,South,Cash,3030,3,1
+852,2024-10-03,Laptop,Electronics,4,1672,34.0,Female,North,E-wallet,6688,10,4
+254,2024-09-05,Tablet,Accessories,3,240,26.0,Male,South,E-wallet,720,9,3
+227,2024-10-09,Camera,Electronics,1,1867,23.0,Male,North,Cash,1867,10,4
+112,2024-02-12,Speaker,Accessories,2,747,60.0,Female,North,Cash,1494,2,1
+510,2024-02-03,Mouse,Accessories,2,287,42.0,Female,South,Cash,574,2,1
+473,2024-12-03,TV,Electronics,4,1251,56.0,Male,South,Credit Card,5004,12,4
+99,2024-09-27,Headphones,Accessories,4,300,45.0,Male,North,Credit Card,1200,9,3
+153,2024-01-17,Camera,Accessories,4,1250,50.0,Female,East,Credit Card,5000,1,1
+861,2024-12-10,Smartwatch,Electronics,2,356,54.0,Male,West,Cash,712,12,4
+914,2024-07-14,Speaker,Accessories,1,1799,26.0,Female,North,Cash,1799,7,3
+896,2024-02-25,Laptop,Accessories,1,646,35.0,Male,South,Credit Card,646,2,1
+878,2024-01-17,Laptop,Electronics,2,293,38.0,Female,South,Credit Card,586,1,1
+338,2024-04-06,Camera,Electronics,1,802,19.0,Male,East,Cash,802,4,2
+706,2024-10-15,Keyboard,Electronics,2,1227,60.0,Female,West,E-wallet,2454,10,4
+822,2024-07-30,Smartphone,Accessories,1,1658,55.0,Female,North,Credit Card,1658,7,3
+163,2024-07-14,Smartwatch,Electronics,3,1388,57.0,Male,North,Cash,4164,7,3
+720,2024-12-13,Laptop,Accessories,3,901,53.0,Female,West,Cash,2703,12,4
+681,2024-01-30,TV,Accessories,2,1041,60.0,Male,North,E-wallet,2082,1,1
+161,2024-08-01,Laptop,Accessories,1,1507,54.0,Female,West,Cash,1507,8,3
+580,2024-11-21,Headphones,Accessories,4,1383,32.0,Female,South,Cash,5532,11,4
+801,2024-09-12,Mouse,Accessories,1,513,45.0,Female,West,Credit Card,513,9,3
+398,2024-08-01,Laptop,Accessories,3,1481,35.0,Male,North,Credit Card,4443,8,3
+277,2024-01-12,Headphones,Accessories,3,1198,51.0,Female,West,E-wallet,3594,1,1
+816,2024-05-17,Camera,Electronics,1,1478,39.0,Male,East,E-wallet,1478,5,2
+916,2024-12-05,Camera,Electronics,1,1707,28.0,Female,South,Cash,1707,12,4
+504,2024-07-08,Speaker,Accessories,4,1894,30.0,Male,South,Credit Card,7576,7,3
+896,2024-06-07,Laptop,Accessories,4,1009,,Male,West,E-wallet,4036,6,2
+392,2024-04-17,TV,Electronics,1,287,39.0,Male,North,E-wallet,287,4,2
+135,2024-08-27,Laptop,Accessories,1,1808,24.0,Female,East,E-wallet,1808,8,3
+195,2024-02-25,TV,Electronics,1,1413,60.0,Male,South,Cash,1413,2,1
+401,2024-04-15,Tablet,Electronics,1,144,41.0,Female,South,Credit Card,144,4,2
+640,2024-07-18,Speaker,Electronics,2,1696,21.0,Male,North,E-wallet,3392,7,3
+33,2024-06-12,Tablet,Accessories,1,182,45.0,Male,North,Credit Card,182,6,2
+688,2024-03-19,Laptop,Accessories,4,1246,,Male,East,E-wallet,4984,3,1
+460,2024-09-12,Speaker,Electronics,3,457,18.0,Male,West,E-wallet,1371,9,3
+883,2024-03-13,Tablet,Electronics,2,1651,20.0,Female,North,Credit Card,3302,3,1
+470,2024-03-08,Smartphone,Electronics,1,1189,31.0,Male,West,Credit Card,1189,3,1
+375,2024-03-16,Laptop,Electronics,3,1035,55.0,Male,East,Credit Card,3105,3,1
+22,2024-01-22,Tablet,Electronics,2,1780,18.0,Female,West,Cash,3560,1,1
+750,2024-03-27,Smartphone,Accessories,3,474,55.0,Male,South,E-wallet,1422,3,1
+670,2024-01-20,Smartphone,Electronics,1,261,55.0,Male,West,Cash,261,1,1
+38,2024-12-31,Camera,Accessories,1,1869,38.0,Male,East,Credit Card,1869,12,4
+230,2024-02-12,Laptop,Electronics,4,1503,46.0,Male,East,E-wallet,6012,2,1
+365,2024-04-07,Smartphone,Accessories,1,1779,22.0,Female,East,Cash,1779,4,2
+563,2024-11-05,Camera,Accessories,1,1481,27.0,Female,West,E-wallet,1481,11,4
+438,2024-11-19,Tablet,Accessories,2,1311,45.0,Male,South,Cash,2622,11,4
+776,2024-03-19,Headphones,Accessories,4,421,38.0,Female,North,Credit Card,1684,3,1
+283,2024-08-16,Laptop,Accessories,2,549,24.0,Female,South,Cash,1098,8,3
+27,2024-06-01,Speaker,Accessories,3,1597,20.0,Male,West,E-wallet,4791,6,2
+226,2024-04-13,TV,Electronics,1,1136,62.0,Female,West,E-wallet,1136,4,2
+277,2024-01-13,TV,Accessories,3,283,64.0,Male,North,E-wallet,849,1,1
+798,2024-11-03,Tablet,Electronics,2,210,37.0,Female,West,E-wallet,420,11,4
+609,2024-09-27,Keyboard,Accessories,1,607,36.0,Female,East,Credit Card,607,9,3
+284,2024-11-28,Keyboard,Accessories,1,1413,52.0,Female,East,Cash,1413,11,4
+879,2024-04-30,Tablet,Electronics,2,394,21.0,Male,East,Credit Card,788,4,2
+481,2024-08-24,Smartphone,Accessories,2,1574,22.0,Female,East,Credit Card,3148,8,3
+453,2024-09-27,Laptop,Electronics,2,1003,18.0,Male,East,Credit Card,2006,9,3
+829,2024-02-08,TV,Electronics,2,1338,21.0,Male,West,E-wallet,2676,2,1
+816,2024-01-06,TV,Electronics,2,1073,29.0,Female,North,E-wallet,2146,1,1
+659,2024-03-17,Smartphone,Electronics,1,731,44.0,Male,North,E-wallet,731,3,1
+516,2024-10-01,TV,Accessories,2,1690,59.0,Female,East,Cash,3380,10,4
+547,2024-09-26,Speaker,Accessories,1,1150,40.0,Male,West,E-wallet,1150,9,3
+192,2024-05-17,Laptop,Electronics,1,1753,42.0,Male,South,Cash,1753,5,2
+49,2024-06-19,Mouse,Accessories,2,832,38.0,Female,South,E-wallet,1664,6,2
+512,2024-08-29,TV,Accessories,2,1354,41.0,Female,West,E-wallet,2708,8,3
+17,2024-08-08,Tablet,Electronics,4,1688,42.0,Female,East,Credit Card,6752,8,3
+172,2024-02-24,Speaker,Accessories,1,1930,62.0,Female,North,Credit Card,1930,2,1
+220,2024-03-29,TV,Electronics,2,420,63.0,Male,West,Credit Card,840,3,1
+158,2024-08-03,Speaker,Electronics,2,1012,49.0,Male,South,Cash,2024,8,3
+477,2024-11-06,Camera,Accessories,2,1356,49.0,Male,South,Cash,2712,11,4
+46,2024-12-10,Mouse,Accessories,4,1793,22.0,Female,South,E-wallet,7172,12,4
+373,2024-06-06,Smartwatch,Accessories,4,536,53.0,Male,East,Cash,2144,6,2
+518,2024-01-06,Tablet,Electronics,3,880,63.0,Female,South,E-wallet,2640,1,1
+99,2024-02-04,Tablet,Electronics,1,1656,59.0,Male,West,Cash,1656,2,1
+892,2024-09-28,Laptop,Accessories,3,1526,59.0,Female,West,Cash,4578,9,3
+745,2024-07-28,Speaker,Accessories,2,1176,56.0,Male,South,Cash,2352,7,3
+37,2024-12-13,Smartphone,Accessories,4,1910,33.0,Male,West,Credit Card,7640,12,4
+280,2024-02-23,Tablet,Accessories,4,1436,50.0,Female,South,Cash,5744,2,1
+349,2024-05-16,Speaker,Electronics,3,1404,38.0,Male,South,Credit Card,4212,5,2
+497,2024-09-29,Speaker,Accessories,4,825,26.0,Female,North,Credit Card,3300,9,3
+302,2024-08-23,Headphones,Electronics,2,130,23.0,Male,East,Cash,260,8,3
+181,2024-02-06,Headphones,Electronics,4,436,62.0,Male,East,E-wallet,1744,2,1
+607,2024-02-27,Smartwatch,Accessories,3,282,52.0,Female,North,E-wallet,846,2,1
+99,2024-03-02,Camera,Accessories,2,1146,56.0,Female,North,E-wallet,2292,3,1
+700,2024-06-14,Smartwatch,Accessories,3,643,39.0,Male,East,Cash,1929,6,2
+116,2024-08-01,TV,Electronics,4,1569,58.0,Male,South,E-wallet,6276,8,3
+191,2024-08-31,Smartphone,Accessories,3,1197,22.0,Male,South,Credit Card,3591,8,3
+253,2024-04-09,TV,Accessories,3,1133,59.0,Male,East,E-wallet,3399,4,2
+928,2024-07-21,Keyboard,Electronics,1,1607,40.0,Male,South,Cash,1607,7,3
+161,2024-01-04,TV,Accessories,4,1579,34.0,Male,North,E-wallet,6316,1,1
+256,2024-05-15,Laptop,Electronics,4,1689,29.0,Female,South,Credit Card,6756,5,2
+323,2024-01-16,TV,Accessories,3,1687,40.0,Female,South,Cash,5061,1,1
+128,2024-02-01,Smartwatch,Electronics,1,759,33.0,Female,West,E-wallet,759,2,1
+18,2024-08-20,Tablet,Accessories,4,259,20.0,Male,West,Cash,1036,8,3
+793,2024-02-23,Tablet,Accessories,2,1137,47.0,Male,West,Cash,2274,2,1
+735,2024-10-22,Headphones,Electronics,3,1301,39.0,Male,South,Cash,3903,10,4
+566,2024-10-22,Smartphone,Electronics,4,511,26.0,Female,East,E-wallet,2044,10,4
+570,2024-12-15,Smartphone,Accessories,2,1111,46.0,Female,North,Cash,2222,12,4
+323,2024-04-17,Laptop,Electronics,4,152,64.0,Male,South,E-wallet,608,4,2
+872,2024-04-26,Smartwatch,Electronics,2,507,54.0,Male,East,Credit Card,1014,4,2
+686,2024-03-09,Headphones,Electronics,3,946,40.0,Female,South,E-wallet,2838,3,1
+792,2024-06-10,Keyboard,Electronics,4,1145,30.0,Female,North,Credit Card,4580,6,2
+626,2024-07-14,Smartphone,Accessories,4,1153,49.0,Female,South,E-wallet,4612,7,3
+288,2024-02-28,Tablet,Accessories,1,802,63.0,Male,North,Cash,802,2,1
+943,2024-06-20,TV,Electronics,3,359,64.0,Male,South,E-wallet,1077,6,2
+854,2024-08-07,TV,Electronics,2,1328,40.0,Male,North,Cash,2656,8,3
+663,2024-11-01,Headphones,Electronics,4,1182,62.0,Female,,Credit Card,4728,11,4
+639,2024-10-27,Smartwatch,Electronics,4,1594,34.0,Female,North,E-wallet,6376,10,4
+155,2024-09-13,Smartwatch,Accessories,2,875,57.0,Male,West,Cash,1750,9,3
+490,2024-01-16,Camera,Accessories,3,1589,38.0,Male,South,Credit Card,4767,1,1
+386,2024-04-21,Mouse,Electronics,1,1135,19.0,Female,South,Credit Card,1135,4,2
+785,2024-11-02,Smartphone,Electronics,1,1754,54.0,Male,East,E-wallet,1754,11,4
+104,2024-02-17,Smartwatch,Electronics,4,1413,23.0,Female,East,Credit Card,5652,2,1
+929,2024-06-11,Tablet,Accessories,2,949,61.0,Female,North,Cash,1898,6,2
+393,2024-06-24,Headphones,Electronics,4,1883,35.0,Male,South,Credit Card,7532,6,2
+811,2024-09-25,Keyboard,Accessories,2,453,47.0,Female,North,Credit Card,906,9,3
+246,2024-01-22,Camera,Electronics,1,1762,39.0,Male,West,Cash,1762,1,1
+176,2024-02-13,Speaker,Accessories,3,1198,50.0,Female,East,Credit Card,3594,2,1
+39,2024-11-02,Laptop,Electronics,2,972,47.0,Female,North,Credit Card,1944,11,4
+477,2024-03-26,Keyboard,Accessories,1,1839,34.0,Male,North,Credit Card,1839,3,1
+682,2024-07-12,Speaker,Electronics,4,1684,60.0,Female,,Credit Card,6736,7,3
+759,2024-01-28,TV,Electronics,2,1714,49.0,Male,South,Cash,3428,1,1
+538,2024-04-12,Laptop,Electronics,3,1564,59.0,Male,North,Credit Card,4692,4,2
+867,2024-02-09,Smartphone,Accessories,4,1090,31.0,Female,East,Cash,4360,2,1
+818,2024-08-12,Tablet,Electronics,4,1364,27.0,Male,South,Credit Card,5456,8,3
+921,2024-02-16,Laptop,Accessories,1,1117,64.0,Male,West,Credit Card,1117,2,1
+408,2024-03-01,Mouse,Accessories,2,1984,53.0,Male,East,Credit Card,3968,3,1
+525,2024-09-03,Speaker,Electronics,4,1277,51.0,Male,North,Credit Card,5108,9,3
+828,2024-07-06,Smartphone,Electronics,3,1909,26.0,Male,West,Cash,5727,7,3
+506,2024-05-06,Mouse,Electronics,2,1219,59.0,Male,South,Cash,2438,5,2
+903,2024-12-11,TV,Accessories,3,1849,45.0,Female,South,Cash,5547,12,4
+825,2024-02-09,Mouse,Electronics,4,393,28.0,Male,East,E-wallet,1572,2,1
+36,2024-08-25,Camera,Accessories,3,308,31.0,Female,East,Credit Card,924,8,3
+685,2024-08-23,Camera,Accessories,1,1466,56.0,Female,East,Credit Card,1466,8,3
+20,2024-08-24,Headphones,Electronics,3,1211,64.0,Male,South,Cash,3633,8,3
+321,2024-12-06,Keyboard,Electronics,2,917,36.0,Female,West,E-wallet,1834,12,4
+776,2024-08-05,Keyboard,Electronics,3,1899,32.0,Female,South,Credit Card,5697,8,3
+512,2024-12-07,Smartphone,Electronics,3,489,45.0,Male,North,Cash,1467,12,4
+400,2024-09-13,TV,Electronics,1,424,41.0,Male,South,Credit Card,424,9,3
+654,2024-01-28,Smartwatch,Electronics,3,1039,25.0,Male,North,Credit Card,3117,1,1
+883,2024-01-29,Camera,Accessories,3,988,60.0,Female,West,Cash,2964,1,1
+471,2024-01-15,Smartphone,Accessories,4,1955,26.0,Female,East,Cash,7820,1,1
+143,2024-08-13,Smartwatch,Accessories,4,1280,64.0,Male,East,Credit Card,5120,8,3
+92,2024-08-21,Keyboard,Electronics,2,767,50.0,Male,South,Credit Card,1534,8,3
+354,2024-02-26,Headphones,Accessories,4,1774,50.0,Female,East,Cash,7096,2,1
+834,2024-11-27,Mouse,Accessories,4,732,,Female,West,Credit Card,2928,11,4
+800,2024-01-29,Camera,Accessories,4,676,20.0,Female,East,Credit Card,2704,1,1
+727,2024-01-11,Smartphone,Accessories,4,1742,27.0,Female,South,Cash,6968,1,1
+854,2024-07-18,Laptop,Accessories,1,1782,57.0,Male,West,Credit Card,1782,7,3
+51,2024-06-30,Smartwatch,Electronics,4,236,64.0,Female,North,Credit Card,944,6,2
+665,2024-10-30,Mouse,Electronics,1,1797,59.0,Female,South,E-wallet,1797,10,4
+698,2024-08-03,Camera,Accessories,1,527,18.0,Female,North,Cash,527,8,3
+575,2024-06-20,Keyboard,Accessories,4,1575,46.0,Female,West,E-wallet,6300,6,2
+190,2024-05-13,TV,Accessories,3,711,51.0,Male,South,E-wallet,2133,5,2
+125,2024-09-09,Smartwatch,Electronics,1,1973,30.0,Male,South,E-wallet,1973,9,3
+150,2024-06-03,Keyboard,Electronics,3,1010,18.0,Female,West,Credit Card,3030,6,2
+314,2024-10-07,Camera,Accessories,3,918,51.0,Female,East,Credit Card,2754,10,4
+570,2024-10-07,Smartwatch,Electronics,4,240,46.0,Male,South,E-wallet,960,10,4
+342,2024-03-22,Mouse,Electronics,2,1206,64.0,Male,South,E-wallet,2412,3,1
+305,2024-11-08,Camera,Accessories,4,276,30.0,Female,North,E-wallet,1104,11,4
+692,2024-11-28,Speaker,Electronics,2,297,46.0,Female,East,Credit Card,594,11,4
+682,2024-04-12,Smartphone,Electronics,2,723,56.0,Male,North,E-wallet,1446,4,2
+838,2024-03-15,Mouse,Accessories,4,1691,41.0,Male,North,E-wallet,6764,3,1
+783,2024-06-13,Smartwatch,Electronics,4,790,43.0,Male,East,Cash,3160,6,2
+54,2024-10-28,TV,Electronics,2,1544,34.0,Male,East,Cash,3088,10,4
+444,2024-05-08,Keyboard,Accessories,4,500,24.0,Male,West,Credit Card,2000,5,2
+613,2024-03-12,Laptop,Electronics,2,1821,30.0,Male,East,Cash,3642,3,1
+264,2024-03-13,Keyboard,Electronics,3,570,22.0,Female,South,Cash,1710,3,1
+53,2024-03-27,Smartwatch,Accessories,4,317,43.0,Male,East,Cash,1268,3,1
+572,2024-04-29,Keyboard,Accessories,3,1028,20.0,Male,West,Credit Card,3084,4,2
+620,2024-11-11,Smartphone,Accessories,1,1951,24.0,Male,West,Cash,1951,11,4
+5,2024-05-08,Camera,Electronics,3,1852,56.0,Male,West,Credit Card,5556,5,2
+103,2024-12-04,Laptop,Accessories,3,731,18.0,Female,East,E-wallet,2193,12,4
+196,2024-05-18,Tablet,Electronics,2,1050,34.0,Female,East,Cash,2100,5,2
+774,2024-03-28,Smartwatch,Accessories,3,1005,60.0,Male,North,Credit Card,3015,3,1
+877,2024-07-05,Headphones,Electronics,4,274,42.0,Female,North,Cash,1096,7,3
+884,2024-05-04,Tablet,Accessories,2,122,20.0,Female,South,E-wallet,244,5,2
+350,2024-09-03,Keyboard,Accessories,1,1848,32.0,Female,North,Credit Card,1848,9,3
+47,2024-06-20,Smartwatch,Accessories,4,334,46.0,Female,South,Credit Card,1336,6,2
+867,2024-11-23,Speaker,Accessories,1,1136,60.0,Female,West,Credit Card,1136,11,4
+823,2024-05-19,Headphones,Electronics,3,1224,49.0,Female,North,E-wallet,3672,5,2
+936,2024-11-08,Laptop,Accessories,4,1028,43.0,Male,East,E-wallet,4112,11,4
+820,2024-07-20,TV,Accessories,4,1659,33.0,Male,North,E-wallet,6636,7,3
+656,2024-02-18,Speaker,Electronics,1,1999,42.0,Male,South,Credit Card,1999,2,1
+269,2024-11-23,Tablet,Accessories,4,622,45.0,Male,North,E-wallet,2488,11,4
+370,2024-08-08,Camera,Electronics,4,1908,26.0,Male,West,Cash,7632,8,3
+636,2024-06-04,Smartphone,Accessories,4,1575,18.0,Female,East,E-wallet,6300,6,2
+106,2024-06-18,TV,Accessories,3,530,46.0,Male,South,Credit Card,1590,6,2
+670,2024-03-23,Speaker,Accessories,1,892,39.0,Male,East,Cash,892,3,1
+659,2024-02-15,Camera,Electronics,4,1729,33.0,Female,East,E-wallet,6916,2,1
+657,2024-12-09,Camera,Accessories,2,1836,58.0,Female,South,Cash,3672,12,4
+120,2024-01-26,Smartwatch,Accessories,2,632,,Male,East,Cash,1264,1,1
+831,2024-12-19,Speaker,Accessories,2,1975,58.0,Female,East,Credit Card,3950,12,4
+787,2024-01-30,Laptop,Electronics,2,1078,24.0,Female,North,Cash,2156,1,1
+604,2024-05-15,Keyboard,Electronics,3,1846,31.0,Female,East,Cash,5538,5,2
+58,2024-12-07,Headphones,Accessories,4,1775,46.0,Female,East,Credit Card,7100,12,4
+346,2024-11-19,Headphones,Electronics,1,1416,36.0,Male,East,Credit Card,1416,11,4
+741,2024-10-31,Tablet,Accessories,4,909,36.0,Female,East,Credit Card,3636,10,4
+474,2024-05-09,Tablet,Accessories,3,1012,19.0,Male,South,Cash,3036,5,2
+117,2024-09-08,Headphones,Accessories,2,1224,58.0,Male,West,Cash,2448,9,3
+830,2024-11-05,Laptop,Accessories,3,1625,62.0,Female,North,Cash,4875,11,4
+791,2024-08-17,Smartphone,Accessories,4,1427,32.0,Female,East,Credit Card,5708,8,3
+127,2024-09-12,Mouse,Accessories,1,970,20.0,Female,East,E-wallet,970,9,3
+393,2024-11-06,Keyboard,Accessories,3,639,28.0,Male,South,Cash,1917,11,4
+908,2024-01-11,Smartphone,Electronics,1,1123,63.0,Female,West,E-wallet,1123,1,1
+641,2024-01-18,Smartwatch,Electronics,3,1676,47.0,Female,East,Credit Card,5028,1,1
+58,2024-03-03,Mouse,Electronics,1,1478,57.0,Female,South,Cash,1478,3,1
+634,2024-12-28,Mouse,Electronics,1,1426,35.0,Female,North,E-wallet,1426,12,4
+513,2024-02-20,Speaker,Electronics,2,1619,19.0,Female,North,Cash,3238,2,1
+751,2024-11-12,Laptop,Electronics,1,1781,49.0,Male,East,Cash,1781,11,4
+802,2024-09-24,Laptop,Electronics,2,1891,25.0,Female,East,Cash,3782,9,3
+96,2024-04-07,Mouse,Accessories,4,326,39.0,Female,West,E-wallet,1304,4,2
+638,2024-01-25,Speaker,Accessories,4,1359,23.0,Female,West,Credit Card,5436,1,1
+118,2024-03-06,Keyboard,Accessories,2,972,29.0,Male,East,Cash,1944,3,1
+560,2024-03-15,Mouse,Accessories,2,991,64.0,Female,South,Credit Card,1982,3,1
+601,2024-02-21,TV,Electronics,3,1578,57.0,Male,West,Credit Card,4734,2,1
+488,2024-06-07,Tablet,Electronics,3,1136,53.0,Male,East,E-wallet,3408,6,2
+237,2024-11-20,Tablet,Accessories,3,309,32.0,Female,West,E-wallet,927,11,4
+885,2024-06-20,Smartphone,Accessories,4,840,45.0,Female,East,Credit Card,3360,6,2
+897,2024-07-28,Smartwatch,Electronics,3,496,62.0,Female,North,Cash,1488,7,3
+272,2024-09-30,Tablet,Accessories,1,1223,35.0,Male,East,E-wallet,1223,9,3
+189,2024-12-01,Camera,Accessories,1,130,19.0,Male,North,Cash,130,12,4
+704,2024-12-25,Smartphone,Accessories,3,997,30.0,Male,West,Cash,2991,12,4
+447,2024-04-02,Tablet,Accessories,1,1651,62.0,Male,East,Cash,1651,4,2
+581,2024-04-26,Smartwatch,Electronics,4,748,32.0,Male,West,Credit Card,2992,4,2
+790,2024-11-09,Laptop,Accessories,1,428,37.0,Male,North,Cash,428,11,4
+861,2024-04-02,Laptop,Accessories,4,1289,46.0,Female,East,Credit Card,5156,4,2
+247,2024-04-19,Keyboard,Electronics,2,1582,59.0,Female,West,Credit Card,3164,4,2
+76,2024-10-30,Mouse,Electronics,2,1945,46.0,Male,North,Cash,3890,10,4
+154,2024-08-07,TV,Accessories,2,1051,20.0,Female,West,Cash,2102,8,3
+656,2024-07-08,Laptop,Electronics,2,1223,36.0,Female,South,Cash,2446,7,3
+435,2024-02-20,Speaker,Accessories,1,720,20.0,Male,North,Cash,720,2,1
+86,2024-01-10,Tablet,Accessories,3,1978,31.0,Male,North,Credit Card,5934,1,1
+697,2024-01-26,Speaker,Electronics,1,1296,57.0,Female,North,Cash,1296,1,1
+285,2024-11-03,Smartwatch,Accessories,4,1872,21.0,Male,East,Cash,7488,11,4
+220,2024-08-18,Laptop,Accessories,1,261,28.0,Male,East,Credit Card,261,8,3
+69,2024-06-09,TV,Accessories,1,1851,48.0,Female,East,E-wallet,1851,6,2
+47,2024-12-19,Smartwatch,Accessories,4,875,60.0,Male,South,E-wallet,3500,12,4
+94,2024-12-16,Camera,Electronics,2,1386,49.0,Female,South,Credit Card,2772,12,4
+750,2024-08-12,Camera,Electronics,2,1927,44.0,Female,North,E-wallet,3854,8,3
+453,2024-09-14,Speaker,Accessories,2,373,47.0,Female,South,Credit Card,746,9,3
+204,2024-11-05,Mouse,Electronics,3,1126,60.0,Female,West,Cash,3378,11,4
+912,2024-06-29,Smartphone,Accessories,4,1151,19.0,Female,North,Cash,4604,6,2
+218,2024-12-28,Mouse,Accessories,4,425,26.0,Male,North,E-wallet,1700,12,4
+474,2024-05-20,Keyboard,Accessories,1,1039,45.0,Male,West,Cash,1039,5,2
+432,2024-06-03,Mouse,Accessories,3,1272,48.0,Male,North,E-wallet,3816,6,2
+341,2024-09-19,Keyboard,Accessories,2,639,51.0,Male,South,E-wallet,1278,9,3
+551,2024-08-17,Keyboard,Electronics,3,587,32.0,Female,East,Cash,1761,8,3
+612,2024-04-29,TV,Accessories,4,921,42.0,Female,West,Cash,3684,4,2
+289,2024-11-28,Laptop,Electronics,4,1561,53.0,Male,South,E-wallet,6244,11,4
+254,2024-07-05,TV,Electronics,1,1188,25.0,Female,West,Cash,1188,7,3
+734,2024-01-09,Keyboard,Accessories,1,455,26.0,Male,West,Credit Card,455,1,1
+357,2024-09-05,Smartwatch,Accessories,4,1656,54.0,Male,North,Cash,6624,9,3
+23,2024-10-27,Camera,Accessories,2,1375,62.0,Male,North,Cash,2750,10,4
+762,2024-03-19,Keyboard,Accessories,2,334,56.0,Female,,Credit Card,668,3,1
+522,2024-01-02,TV,Accessories,3,326,49.0,Female,West,Cash,978,1,1
+758,2024-07-18,Smartwatch,Electronics,4,1648,34.0,Female,North,Cash,6592,7,3
+837,2024-03-24,TV,Accessories,4,1436,52.0,Female,North,E-wallet,5744,3,1
+100,2024-09-21,Mouse,Accessories,2,148,54.0,Male,West,Cash,296,9,3
+802,2024-11-30,Tablet,Electronics,2,217,36.0,Female,South,Cash,434,11,4
+180,2024-01-09,Speaker,Electronics,4,153,61.0,Female,South,Credit Card,612,1,1
+223,2024-09-02,Smartphone,Accessories,1,1773,46.0,Female,West,E-wallet,1773,9,3
+906,2024-01-30,TV,Electronics,4,664,24.0,Male,South,E-wallet,2656,1,1
+762,2024-08-28,Smartphone,Accessories,4,1167,45.0,Male,North,E-wallet,4668,8,3
+659,2024-02-20,Headphones,Electronics,2,1938,26.0,Female,West,Cash,3876,2,1
+442,2024-12-28,TV,Electronics,2,152,45.0,Female,North,E-wallet,304,12,4
+608,2024-07-02,Tablet,Accessories,1,1709,23.0,Female,East,Credit Card,1709,7,3
+769,2024-10-10,Smartphone,Electronics,1,657,46.0,Female,East,E-wallet,657,10,4
+325,2024-10-06,Keyboard,Electronics,3,1648,34.0,Male,South,Credit Card,4944,10,4
+516,2024-02-26,TV,Electronics,4,1800,33.0,Female,East,E-wallet,7200,2,1
+16,2024-05-22,Laptop,Electronics,2,1225,40.0,Female,,E-wallet,2450,5,2
+792,2024-02-19,Speaker,Electronics,1,1915,,Female,East,Credit Card,1915,2,1
+336,2024-01-18,Tablet,Electronics,3,1893,20.0,Male,North,E-wallet,5679,1,1
+759,2024-11-09,Smartphone,Accessories,3,1972,38.0,Male,South,E-wallet,5916,11,4
+258,2024-09-17,Tablet,Accessories,2,967,43.0,Female,South,E-wallet,1934,9,3
+497,2024-02-09,Smartwatch,Electronics,2,497,53.0,Female,North,Cash,994,2,1
+896,2024-01-01,Speaker,Accessories,3,1261,59.0,Female,East,Credit Card,3783,1,1
+160,2024-05-08,Keyboard,Accessories,1,774,54.0,Female,South,E-wallet,774,5,2
+475,2024-01-14,TV,Accessories,3,486,39.0,Female,West,Credit Card,1458,1,1
+852,2024-04-21,TV,Electronics,4,210,59.0,Male,South,Credit Card,840,4,2
+664,2024-03-23,TV,Accessories,4,713,29.0,Male,East,Credit Card,2852,3,1
+908,2024-03-23,Speaker,Electronics,2,116,59.0,Male,West,E-wallet,232,3,1
+690,2024-08-05,Laptop,Accessories,1,1903,30.0,Female,East,E-wallet,1903,8,3
+675,2024-12-24,Headphones,Electronics,1,1305,,Male,North,Credit Card,1305,12,4
+380,2024-11-18,Camera,Electronics,4,983,33.0,Male,West,Cash,3932,11,4
+545,2024-02-06,Mouse,Accessories,3,1659,25.0,Male,East,Credit Card,4977,2,1
+929,2024-01-30,Smartphone,Accessories,2,640,57.0,Female,West,Cash,1280,1,1
+691,2024-08-02,Laptop,Electronics,3,270,57.0,Female,East,Credit Card,810,8,3
+427,2024-01-13,Keyboard,Accessories,3,508,62.0,Male,West,Credit Card,1524,1,1
+613,2024-06-11,Smartphone,Accessories,3,839,19.0,Female,East,Credit Card,2517,6,2
+268,2024-10-26,TV,Accessories,1,1501,47.0,Male,North,E-wallet,1501,10,4
+835,2024-02-12,Tablet,Electronics,4,1311,47.0,Male,West,Cash,5244,2,1
+577,2024-09-29,Keyboard,Electronics,1,957,29.0,Male,West,Cash,957,9,3
+417,2024-10-03,Smartphone,Accessories,4,329,,Male,West,Credit Card,1316,10,4
+168,2024-11-23,TV,Accessories,2,1956,61.0,Female,West,E-wallet,3912,11,4
+842,2024-02-20,Smartphone,Accessories,2,1975,28.0,Female,North,E-wallet,3950,2,1
+43,2024-06-13,Tablet,Electronics,3,218,32.0,Female,West,Cash,654,6,2
+556,2024-12-01,TV,Electronics,4,1279,33.0,Female,South,E-wallet,5116,12,4
+285,2024-03-31,Headphones,Accessories,4,883,34.0,Male,North,Cash,3532,3,1
+397,2024-09-23,Laptop,Accessories,4,1810,43.0,Female,South,Cash,7240,9,3
+12,2024-07-14,Smartwatch,Accessories,3,564,19.0,Male,West,Cash,1692,7,3
+607,2024-05-20,Mouse,Accessories,3,203,29.0,Female,East,E-wallet,609,5,2
+302,2024-08-02,Speaker,Accessories,2,1727,43.0,Female,South,Cash,3454,8,3
+898,2024-11-10,Mouse,Accessories,1,797,40.0,Female,West,Cash,797,11,4
+253,2024-10-02,Keyboard,Electronics,4,1918,35.0,Male,South,Credit Card,7672,10,4
+499,2024-12-02,Mouse,Accessories,4,1625,49.0,Male,West,Cash,6500,12,4
+754,2024-04-17,TV,Electronics,1,1816,55.0,Male,West,Cash,1816,4,2
+35,2024-10-06,Headphones,Accessories,4,1805,64.0,Male,West,Credit Card,7220,10,4
+727,2024-02-27,Smartwatch,Accessories,3,1822,20.0,Female,East,Credit Card,5466,2,1
+849,2024-12-09,Laptop,Electronics,3,274,55.0,Male,South,E-wallet,822,12,4
+90,2024-05-29,Laptop,Electronics,4,1857,20.0,Male,North,Cash,7428,5,2
+776,2024-03-02,Tablet,Electronics,3,844,47.0,Female,North,E-wallet,2532,3,1
+605,2024-07-25,Speaker,Electronics,3,1797,18.0,Female,North,E-wallet,5391,7,3
+922,2024-10-29,Smartphone,Accessories,4,1544,47.0,Male,North,Credit Card,6176,10,4
+602,2024-04-12,Headphones,Electronics,2,1257,62.0,Female,West,E-wallet,2514,4,2
+418,2024-08-21,Smartphone,Accessories,1,1514,,Male,South,Cash,1514,8,3
+115,2024-06-18,Smartwatch,Electronics,3,1859,45.0,Female,South,Credit Card,5577,6,2
+617,2024-10-11,Mouse,Accessories,2,1624,38.0,Male,East,Cash,3248,10,4
+903,2024-05-03,Laptop,Accessories,3,764,63.0,Male,South,Cash,2292,5,2
+196,2024-05-01,Smartwatch,Accessories,3,132,30.0,Male,South,Credit Card,396,5,2
+826,2024-08-28,Mouse,Accessories,1,154,44.0,Male,South,Cash,154,8,3
+501,2024-03-18,Laptop,Accessories,3,618,53.0,Male,East,Credit Card,1854,3,1
+626,2024-02-19,Mouse,Accessories,1,855,24.0,Female,North,Cash,855,2,1
+493,2024-09-28,Speaker,Electronics,1,1948,,Male,South,Credit Card,1948,9,3
+75,2024-01-24,Headphones,Accessories,1,1761,27.0,Male,East,E-wallet,1761,1,1
+413,2024-12-04,Keyboard,Electronics,2,111,56.0,Male,East,Cash,222,12,4
+376,2024-07-24,Smartwatch,Electronics,4,1651,32.0,Male,West,Credit Card,6604,7,3
+420,2024-12-19,Smartwatch,Accessories,2,819,32.0,Male,East,Cash,1638,12,4
+729,2024-06-30,Camera,Electronics,4,654,21.0,Female,North,Cash,2616,6,2
+277,2024-07-02,TV,Accessories,4,472,49.0,Female,South,Cash,1888,7,3
+761,2024-06-28,Speaker,Electronics,1,583,40.0,Male,East,Credit Card,583,6,2
+676,2024-05-08,Speaker,Accessories,3,1072,23.0,Female,North,E-wallet,3216,5,2
+394,2024-06-23,Smartphone,Electronics,1,1770,41.0,Male,East,E-wallet,1770,6,2
+869,2024-01-20,Mouse,Accessories,3,1351,37.0,Female,East,E-wallet,4053,1,1
+457,2024-10-07,TV,Accessories,4,722,54.0,Female,East,Credit Card,2888,10,4
+920,2024-12-08,Headphones,Accessories,1,406,37.0,Male,East,E-wallet,406,12,4
+192,2024-06-16,Headphones,Accessories,3,556,29.0,Female,East,Credit Card,1668,6,2
+739,2024-05-06,Speaker,Electronics,2,259,50.0,Female,North,Cash,518,5,2
+689,2024-04-13,Headphones,Accessories,3,430,45.0,Male,South,Cash,1290,4,2
+99,2024-02-15,Camera,Electronics,1,875,25.0,Male,South,E-wallet,875,2,1
+548,2024-07-22,Smartwatch,Electronics,2,324,18.0,Female,South,Credit Card,648,7,3
+96,2024-12-30,Tablet,Electronics,3,1082,54.0,Female,South,Cash,3246,12,4
+664,2024-07-13,Keyboard,Accessories,3,828,39.0,Female,North,Credit Card,2484,7,3
+663,2024-12-18,Smartphone,Electronics,3,1627,23.0,Male,West,Credit Card,4881,12,4
+190,2024-12-11,Mouse,Electronics,3,1579,38.0,Female,West,Cash,4737,12,4
+736,2024-01-25,Keyboard,Electronics,3,1168,49.0,Female,North,Credit Card,3504,1,1
+37,2024-10-01,Mouse,Accessories,2,1337,52.0,Female,North,Cash,2674,10,4
+780,2024-09-22,Laptop,Accessories,4,1182,32.0,Male,East,Cash,4728,9,3
+369,2024-10-17,Keyboard,Electronics,2,743,22.0,Male,East,Cash,1486,10,4
+695,2024-12-25,Tablet,Accessories,2,715,63.0,Male,East,Credit Card,1430,12,4
+525,2024-12-28,Speaker,Accessories,2,294,23.0,Male,South,Cash,588,12,4
+279,2024-08-30,Camera,Electronics,4,588,42.0,Female,East,Credit Card,2352,8,3
+217,2024-04-13,Smartwatch,Electronics,1,256,63.0,Male,West,Cash,256,4,2
+867,2024-07-03,Smartwatch,Accessories,4,709,57.0,Female,South,Cash,2836,7,3
+873,2024-02-12,Camera,Electronics,2,1349,46.0,Female,East,E-wallet,2698,2,1
+798,2024-11-07,TV,Accessories,3,511,24.0,Female,South,E-wallet,1533,11,4
+273,2024-09-01,Laptop,Accessories,3,1328,57.0,Female,West,E-wallet,3984,9,3
+881,2024-12-13,Mouse,Accessories,2,1202,30.0,Male,East,Credit Card,2404,12,4
+62,2024-03-26,Tablet,Accessories,3,1247,55.0,Male,West,Credit Card,3741,3,1
+596,2024-05-21,Headphones,Accessories,2,570,35.0,Male,West,Cash,1140,5,2
+880,2024-11-12,Keyboard,Accessories,3,1341,19.0,Male,West,Cash,4023,11,4
+729,2024-12-26,Laptop,Electronics,4,615,25.0,Male,East,Cash,2460,12,4
+342,2024-04-05,Keyboard,Electronics,1,1725,28.0,Female,North,Cash,1725,4,2
+397,2024-03-18,Tablet,Accessories,1,1227,50.0,Male,East,Credit Card,1227,3,1
+699,2024-01-27,Smartphone,Accessories,4,492,55.0,Male,West,Cash,1968,1,1
+19,2024-05-01,Smartphone,Accessories,4,730,44.0,Male,East,Cash,2920,5,2
+177,2024-02-26,Laptop,Electronics,2,1768,37.0,Male,West,E-wallet,3536,2,1
+612,2024-03-05,Speaker,Accessories,2,1947,29.0,Female,North,Cash,3894,3,1
+396,2024-09-01,Tablet,Electronics,2,707,60.0,Female,South,Cash,1414,9,3
+445,2024-01-19,Tablet,Accessories,3,1079,48.0,Female,North,Cash,3237,1,1
+233,2024-03-12,Camera,Accessories,2,533,44.0,Female,North,Credit Card,1066,3,1
+915,2024-11-24,Speaker,Electronics,4,1454,49.0,Female,South,E-wallet,5816,11,4
+76,2024-11-24,Mouse,Electronics,1,1266,27.0,Male,East,Cash,1266,11,4
+265,2024-01-24,Mouse,Accessories,3,1923,20.0,Female,South,Cash,5769,1,1
+455,2024-03-04,Headphones,Accessories,2,639,62.0,Female,East,E-wallet,1278,3,1
+796,2024-12-02,Smartwatch,Accessories,3,377,44.0,Female,East,Cash,1131,12,4
+718,2024-09-06,Smartphone,Electronics,3,332,52.0,Male,West,Credit Card,996,9,3
+735,2024-08-12,Mouse,Electronics,2,1652,48.0,Male,West,Cash,3304,8,3
+384,2024-12-23,Speaker,Electronics,3,1694,32.0,Female,South,Credit Card,5082,12,4
+564,2024-05-10,Tablet,Electronics,1,1213,33.0,Male,North,Credit Card,1213,5,2
+851,2024-02-21,Mouse,Electronics,4,1615,30.0,Male,South,Cash,6460,2,1
+506,2024-03-13,Tablet,Electronics,4,1322,52.0,Female,East,E-wallet,5288,3,1
+367,2024-04-18,Mouse,Accessories,1,461,28.0,Male,West,Credit Card,461,4,2
+144,2024-04-25,Smartphone,Accessories,3,1564,38.0,Male,South,E-wallet,4692,4,2
+885,2024-06-11,Keyboard,Electronics,2,125,28.0,Male,South,Cash,250,6,2
+69,2024-02-14,Mouse,Accessories,3,1148,47.0,Female,West,Credit Card,3444,2,1
+99,2024-09-23,Speaker,Accessories,1,1517,52.0,Female,West,Cash,1517,9,3
+396,2024-06-05,Mouse,Electronics,3,606,39.0,Female,West,E-wallet,1818,6,2
+25,2024-05-15,Smartwatch,Accessories,4,1424,55.0,Male,East,Cash,5696,5,2
+948,2024-03-08,Smartphone,Electronics,3,1462,48.0,Female,West,Cash,4386,3,1
+891,2024-10-25,Speaker,Electronics,1,366,31.0,Male,North,Credit Card,366,10,4
+469,2024-03-24,Camera,Accessories,4,560,41.0,Male,South,Cash,2240,3,1
+484,2024-08-02,Speaker,Electronics,3,1816,49.0,Male,West,Cash,5448,8,3
+565,2024-04-15,Smartwatch,Electronics,3,555,53.0,Female,West,Cash,1665,4,2
+151,2024-03-19,Keyboard,Electronics,4,1483,49.0,Female,East,Credit Card,5932,3,1
+144,2024-01-06,Smartphone,Electronics,2,1191,32.0,Female,East,E-wallet,2382,1,1
+569,2024-07-15,Camera,Electronics,4,1106,60.0,Female,South,E-wallet,4424,7,3
+39,2024-02-17,Smartwatch,Electronics,2,962,52.0,Male,North,Cash,1924,2,1
+109,2024-01-25,Smartwatch,Electronics,1,1535,20.0,Female,South,Credit Card,1535,1,1
+693,2024-09-15,Laptop,Electronics,1,590,33.0,Male,West,Cash,590,9,3
+42,2024-05-30,Smartphone,Accessories,4,1956,22.0,Female,North,E-wallet,7824,5,2
+186,2024-05-25,Speaker,Accessories,4,1172,38.0,Female,North,Credit Card,4688,5,2
+935,2024-01-13,Tablet,Accessories,1,1810,27.0,Female,North,E-wallet,1810,1,1
+398,2024-02-26,Keyboard,Electronics,2,663,36.0,Male,North,E-wallet,1326,2,1
+223,2024-03-26,Tablet,Electronics,1,1225,42.0,Male,South,Credit Card,1225,3,1
+634,2024-02-29,Speaker,Accessories,4,315,21.0,Male,East,Credit Card,1260,2,1
+133,2024-09-24,Speaker,Accessories,1,1561,46.0,Male,East,Cash,1561,9,3
+163,2024-11-19,Smartphone,Accessories,4,1823,36.0,Male,West,Cash,7292,11,4
+215,2024-04-04,Speaker,Electronics,4,1692,60.0,Female,East,E-wallet,6768,4,2
+733,2024-11-13,Laptop,Accessories,1,658,19.0,Male,East,Credit Card,658,11,4
+235,2024-09-28,Camera,Accessories,2,258,27.0,Male,East,Credit Card,516,9,3
+843,2024-07-11,Speaker,Electronics,3,588,60.0,Male,East,Cash,1764,7,3
+658,2024-06-16,Tablet,Accessories,1,785,42.0,Male,West,E-wallet,785,6,2
+751,2024-07-30,Speaker,Electronics,3,1365,37.0,Female,South,E-wallet,4095,7,3
+588,2024-01-17,Laptop,Electronics,1,893,36.0,Male,North,Cash,893,1,1
+9,2024-03-20,Mouse,Electronics,3,1876,40.0,Female,East,Credit Card,5628,3,1
+74,2024-01-05,Mouse,Accessories,2,104,41.0,Female,South,Cash,208,1,1
+492,2024-12-28,Smartwatch,Accessories,2,1719,28.0,Female,East,Cash,3438,12,4
+913,2024-02-26,Keyboard,Electronics,1,1943,63.0,Male,East,Cash,1943,2,1
+253,2024-04-10,Headphones,Accessories,4,460,51.0,Female,North,Cash,1840,4,2
+230,2024-10-08,Camera,Accessories,3,558,45.0,Male,North,Credit Card,1674,10,4
+519,2024-03-18,TV,Accessories,4,347,22.0,Male,North,Cash,1388,3,1
+174,2024-07-25,Smartwatch,Accessories,4,1689,22.0,Male,East,Credit Card,6756,7,3
+653,2024-08-30,Keyboard,Electronics,4,1796,38.0,Male,East,Cash,7184,8,3
+168,2024-09-28,Mouse,Accessories,2,1045,29.0,Male,,E-wallet,2090,9,3
+170,2024-11-24,Tablet,Electronics,1,521,21.0,Female,North,Credit Card,521,11,4
+393,2024-07-08,TV,Electronics,1,1861,59.0,Female,West,E-wallet,1861,7,3
+946,2024-11-09,Keyboard,Accessories,2,114,37.0,Male,South,Cash,228,11,4
+795,2024-09-23,Keyboard,Electronics,2,835,55.0,Female,West,Cash,1670,9,3
+634,2024-08-30,Smartwatch,Accessories,1,1696,42.0,Male,East,Cash,1696,8,3
+194,2024-12-16,TV,Accessories,4,1245,31.0,Female,East,Credit Card,4980,12,4
+517,2024-04-28,Smartphone,Electronics,3,376,28.0,Female,West,E-wallet,1128,4,2
+29,2024-10-14,Headphones,Electronics,3,1681,49.0,Female,East,Credit Card,5043,10,4
+165,2024-08-11,Smartphone,Electronics,3,552,,Female,South,Credit Card,1656,8,3
+422,2024-09-27,TV,Electronics,4,1513,35.0,Female,East,Cash,6052,9,3
+339,2024-01-18,Smartphone,Accessories,1,1417,44.0,Male,South,E-wallet,1417,1,1
+648,2024-02-28,Laptop,Accessories,2,1697,35.0,Male,West,Cash,3394,2,1
+496,2024-08-25,Mouse,Accessories,1,697,40.0,Female,West,Credit Card,697,8,3
+365,2024-11-27,Laptop,Electronics,4,545,28.0,Male,East,Cash,2180,11,4
+833,2024-07-28,Speaker,Electronics,2,309,38.0,Female,South,E-wallet,618,7,3
+342,2024-09-04,Smartphone,Electronics,4,1713,61.0,Male,East,Cash,6852,9,3
+500,2024-06-02,Speaker,Accessories,3,813,22.0,Female,,E-wallet,2439,6,2
+657,2024-02-18,Tablet,Electronics,3,401,40.0,Female,North,E-wallet,1203,2,1
+511,2024-07-19,Camera,Accessories,4,1346,58.0,Female,North,Cash,5384,7,3
+327,2024-02-19,Tablet,Electronics,2,1857,42.0,Male,North,Credit Card,3714,2,1
+217,2024-12-20,TV,Accessories,2,102,58.0,Male,East,Cash,204,12,4
+301,2024-05-01,Keyboard,Accessories,1,1089,27.0,Female,North,Credit Card,1089,5,2
+132,2024-04-22,Mouse,Electronics,3,1641,39.0,Female,South,Credit Card,4923,4,2
+804,2024-12-12,Smartphone,Electronics,1,1216,36.0,Male,West,Cash,1216,12,4
+70,2024-01-27,Smartwatch,Accessories,1,619,18.0,Male,West,Credit Card,619,1,1
+252,2024-06-24,Camera,Accessories,4,1551,24.0,Male,North,Credit Card,6204,6,2
+415,2024-09-27,Headphones,Electronics,4,592,21.0,Male,North,Cash,2368,9,3
+787,2024-07-04,Headphones,Electronics,1,1358,18.0,Male,North,Cash,1358,7,3
+445,2024-12-03,Headphones,Accessories,3,719,32.0,Female,East,Cash,2157,12,4
+876,2024-01-08,Smartphone,Electronics,4,1284,57.0,Male,West,Credit Card,5136,1,1
+182,2024-06-12,Headphones,Accessories,1,1844,29.0,Female,North,E-wallet,1844,6,2
+167,2024-11-12,Laptop,Accessories,1,1875,39.0,Female,South,Credit Card,1875,11,4
+91,2024-12-17,Camera,Electronics,1,430,39.0,Male,North,E-wallet,430,12,4
+714,2024-04-04,Laptop,Electronics,1,432,64.0,Male,West,Cash,432,4,2
+858,2024-03-15,Keyboard,Electronics,1,149,34.0,Female,North,E-wallet,149,3,1
+531,2024-05-06,Camera,Electronics,1,1646,46.0,Male,West,Cash,1646,5,2
+39,2024-05-10,Laptop,Electronics,4,962,63.0,Female,North,Cash,3848,5,2
+126,2024-06-04,Camera,Accessories,3,1791,31.0,Male,South,E-wallet,5373,6,2
+451,2024-02-02,Keyboard,Accessories,1,1615,37.0,Male,North,Cash,1615,2,1
+173,2024-08-03,Speaker,Electronics,2,1705,50.0,Male,South,E-wallet,3410,8,3
+653,2024-05-08,Smartphone,Electronics,4,1804,60.0,Female,South,Cash,7216,5,2
+754,2024-04-19,Smartphone,Electronics,4,371,32.0,Male,North,Credit Card,1484,4,2
+220,2024-02-01,Headphones,Accessories,1,679,29.0,Female,South,Credit Card,679,2,1
+638,2024-11-10,Tablet,Electronics,4,1990,57.0,Male,East,Cash,7960,11,4
+58,2024-02-21,Headphones,Electronics,1,1375,,Female,North,Cash,1375,2,1
+660,2024-07-11,TV,Accessories,3,659,47.0,Male,North,E-wallet,1977,7,3
+476,2024-09-30,Laptop,Accessories,3,795,55.0,Female,South,Credit Card,2385,9,3
+456,2024-01-02,Camera,Electronics,4,1955,20.0,Female,South,E-wallet,7820,1,1
+829,2024-12-05,Tablet,Electronics,4,1822,45.0,Female,North,Cash,7288,12,4
+895,2024-04-24,Keyboard,Electronics,2,1213,43.0,Female,East,Cash,2426,4,2
+361,2024-11-04,TV,Accessories,4,545,47.0,Female,South,E-wallet,2180,11,4
+935,2024-12-07,Keyboard,Electronics,2,1116,30.0,Female,South,Cash,2232,12,4
+1,2024-09-08,Smartphone,Electronics,3,1455,30.0,Male,West,Credit Card,4365,9,3
+387,2024-06-10,Smartphone,Electronics,3,1262,19.0,Female,East,E-wallet,3786,6,2
+348,2024-03-14,Headphones,Accessories,1,456,54.0,Female,East,Credit Card,456,3,1
+190,2024-04-29,Laptop,Accessories,3,1724,55.0,Female,North,Credit Card,5172,4,2
+505,2024-07-05,Tablet,Electronics,2,373,19.0,Male,East,Credit Card,746,7,3
+191,2024-02-01,Mouse,Electronics,4,1142,53.0,Male,North,E-wallet,4568,2,1
+508,2024-01-21,TV,Accessories,1,410,43.0,Male,West,Cash,410,1,1
+369,2024-08-05,TV,Accessories,2,969,28.0,Female,East,Credit Card,1938,8,3
+409,2024-07-25,Headphones,Accessories,4,985,25.0,Male,South,Credit Card,3940,7,3
+824,2024-08-28,Smartphone,Accessories,1,253,61.0,Male,West,Credit Card,253,8,3
+929,2024-07-14,Headphones,Accessories,3,1513,57.0,Female,North,Cash,4539,7,3
+934,2024-06-21,Camera,Accessories,2,1383,60.0,Female,West,Cash,2766,6,2
+117,2024-11-02,Tablet,Accessories,4,719,39.0,Male,North,E-wallet,2876,11,4
+134,2024-07-07,Laptop,Accessories,1,982,37.0,Female,West,Cash,982,7,3
+58,2024-11-27,Speaker,Accessories,1,896,25.0,Female,North,E-wallet,896,11,4
+556,2024-06-26,Smartwatch,Electronics,3,1694,46.0,Female,East,E-wallet,5082,6,2
+685,2024-11-04,Smartwatch,Electronics,4,224,57.0,Female,South,E-wallet,896,11,4
+672,2024-05-30,Headphones,Electronics,3,1477,43.0,Male,North,E-wallet,4431,5,2
+173,2024-08-19,Camera,Accessories,3,1396,47.0,Female,West,E-wallet,4188,8,3
+829,2024-12-11,Tablet,Electronics,4,718,34.0,Male,North,Credit Card,2872,12,4
+815,2024-06-15,Mouse,Accessories,4,1934,37.0,Male,North,Cash,7736,6,2
+149,2024-08-02,Smartwatch,Accessories,4,344,33.0,Male,North,Credit Card,1376,8,3
+80,2024-02-18,Tablet,Electronics,2,947,63.0,Male,West,E-wallet,1894,2,1
+886,2024-06-14,Laptop,Accessories,4,549,60.0,Female,South,Cash,2196,6,2
+213,2024-07-08,Keyboard,Electronics,1,1029,24.0,Female,,Credit Card,1029,7,3
+203,2024-11-15,Camera,Electronics,3,1370,33.0,Female,South,Credit Card,4110,11,4
+764,2024-07-20,Smartphone,Electronics,2,619,62.0,Male,North,E-wallet,1238,7,3
+229,2024-10-21,Tablet,Accessories,4,1264,64.0,Male,West,Credit Card,5056,10,4
+676,2024-10-14,Laptop,Electronics,2,461,44.0,Male,South,Credit Card,922,10,4
+227,2024-09-05,Mouse,Accessories,4,107,40.0,Female,North,Credit Card,428,9,3
+659,2024-10-03,Speaker,Electronics,2,577,41.0,Male,East,Credit Card,1154,10,4
+532,2024-08-30,Smartphone,Electronics,3,1475,26.0,Female,East,Credit Card,4425,8,3
+441,2024-01-28,Speaker,Electronics,3,594,52.0,Female,East,E-wallet,1782,1,1
+402,2024-06-25,Mouse,Accessories,1,1729,37.0,Female,North,E-wallet,1729,6,2
+47,2024-09-20,Laptop,Accessories,1,932,54.0,Female,West,Credit Card,932,9,3
+233,2024-03-05,Smartwatch,Accessories,4,1550,59.0,Male,South,E-wallet,6200,3,1
+305,2024-07-13,Speaker,Electronics,3,1162,34.0,Female,East,E-wallet,3486,7,3
+526,2024-09-04,Smartphone,Electronics,2,692,64.0,Male,North,Cash,1384,9,3
+143,2024-09-20,Headphones,Accessories,2,286,48.0,Female,North,Credit Card,572,9,3
+415,2024-03-17,TV,Accessories,2,1719,,Male,South,E-wallet,3438,3,1
+513,2024-05-25,Tablet,Accessories,1,1723,32.0,Male,East,E-wallet,1723,5,2
+373,2024-07-20,Smartwatch,Accessories,2,853,48.0,Female,North,Credit Card,1706,7,3
+566,2024-06-19,Speaker,Accessories,1,1977,47.0,Female,South,Cash,1977,6,2
+886,2024-01-22,Keyboard,Accessories,1,192,63.0,Female,West,Credit Card,192,1,1
+259,2024-09-08,Tablet,Electronics,4,185,,Male,West,Cash,740,9,3
+656,2024-01-11,Headphones,Accessories,2,1167,56.0,Female,West,Credit Card,2334,1,1
+471,2024-08-02,Mouse,Electronics,2,236,29.0,Female,East,Credit Card,472,8,3
+12,2024-02-21,TV,Electronics,3,520,34.0,Male,South,Credit Card,1560,2,1
+330,2024-02-12,Laptop,Accessories,4,173,59.0,Female,South,Credit Card,692,2,1
+736,2024-07-16,Headphones,Accessories,3,1671,47.0,Male,North,Cash,5013,7,3
+784,2024-11-18,Headphones,Electronics,4,1736,46.0,Female,North,Cash,6944,11,4
+358,2024-09-12,Mouse,Accessories,2,1635,36.0,Male,North,E-wallet,3270,9,3
+408,2024-03-25,Camera,Accessories,1,1279,63.0,Male,South,Credit Card,1279,3,1
+668,2024-10-10,Mouse,Electronics,1,1378,28.0,Female,North,Cash,1378,10,4
+373,2024-03-21,Camera,Electronics,1,270,51.0,Male,South,Cash,270,3,1
+8,2024-09-06,Camera,Electronics,1,1851,24.0,Female,South,Cash,1851,9,3
+122,2024-11-06,Smartwatch,Accessories,1,269,61.0,Female,West,Credit Card,269,11,4
+348,2024-11-13,Smartwatch,Electronics,3,1887,51.0,Male,North,E-wallet,5661,11,4
+676,2024-06-01,Smartphone,Accessories,4,971,37.0,Female,West,Cash,3884,6,2
+90,2024-10-10,Speaker,Electronics,2,421,55.0,Male,East,Credit Card,842,10,4
+648,2024-08-06,Speaker,Electronics,3,1690,41.0,Male,East,Cash,5070,8,3
+698,2024-01-07,Laptop,Electronics,4,555,27.0,Male,East,Cash,2220,1,1
+316,2024-04-24,Speaker,Accessories,1,1043,49.0,Male,South,E-wallet,1043,4,2
+178,2024-12-21,Smartwatch,Accessories,4,1726,32.0,Male,South,Cash,6904,12,4
+540,2024-02-04,Smartphone,Electronics,4,889,54.0,Male,South,Cash,3556,2,1
+732,2024-01-20,Smartphone,Electronics,1,712,37.0,Male,North,Credit Card,712,1,1
+869,2024-09-11,Camera,Electronics,1,1278,20.0,Male,West,Credit Card,1278,9,3
+41,2024-09-11,Mouse,Accessories,1,988,54.0,Female,South,E-wallet,988,9,3
+740,2024-07-18,Laptop,Electronics,2,448,57.0,Female,West,Credit Card,896,7,3
+704,2024-08-15,Camera,Accessories,1,1574,25.0,Male,West,Credit Card,1574,8,3
+923,2024-02-28,Mouse,Electronics,2,1999,57.0,Female,West,E-wallet,3998,2,1
+502,2024-01-29,Speaker,Electronics,1,1776,61.0,Female,North,Cash,1776,1,1
+145,2024-06-04,Camera,Electronics,2,1296,40.0,Female,North,E-wallet,2592,6,2
+201,2024-12-02,Tablet,Electronics,4,109,57.0,Female,East,Credit Card,436,12,4
+929,2024-06-09,Speaker,Electronics,3,839,28.0,Female,East,E-wallet,2517,6,2
+724,2024-04-29,Mouse,Electronics,4,1388,63.0,Female,West,Cash,5552,4,2
+461,2024-07-24,Laptop,Accessories,4,1561,25.0,Male,East,E-wallet,6244,7,3
+732,2024-08-17,Mouse,Electronics,1,1883,46.0,Female,West,Credit Card,1883,8,3
+752,2024-06-18,Camera,Accessories,2,1370,47.0,Female,North,Credit Card,2740,6,2
+925,2024-05-13,Camera,Electronics,3,766,27.0,Female,North,E-wallet,2298,5,2
+909,2024-10-26,Headphones,Electronics,1,645,56.0,Female,North,Cash,645,10,4
+558,2024-12-09,Laptop,Accessories,1,1622,45.0,Male,South,E-wallet,1622,12,4
+547,2024-03-08,Keyboard,Electronics,1,228,53.0,Male,West,Cash,228,3,1
+253,2024-12-18,Speaker,Accessories,4,1795,30.0,Male,North,Cash,7180,12,4
+390,2024-05-06,Smartphone,Accessories,2,700,49.0,Male,West,E-wallet,1400,5,2
+594,2024-05-01,Laptop,Electronics,2,704,53.0,Female,East,Cash,1408,5,2
+883,2024-01-15,Smartphone,Accessories,3,426,54.0,Male,East,Credit Card,1278,1,1
+256,2024-06-14,Laptop,Accessories,2,1876,43.0,Male,North,E-wallet,3752,6,2
+709,2024-09-30,Laptop,Electronics,2,1958,39.0,Male,West,Cash,3916,9,3
+815,2024-12-15,Mouse,Accessories,1,1079,21.0,Male,North,Credit Card,1079,12,4
+921,2024-02-02,Laptop,Electronics,1,503,48.0,Female,East,E-wallet,503,2,1
+450,2024-02-20,Headphones,Electronics,4,728,35.0,Male,North,Credit Card,2912,2,1
+10,2024-04-22,Keyboard,Electronics,1,1729,55.0,Female,West,Credit Card,1729,4,2
+824,2024-05-23,Camera,Electronics,1,1798,41.0,Male,East,Credit Card,1798,5,2
+798,2024-03-22,TV,Accessories,1,1734,40.0,Female,South,Cash,1734,3,1
+242,2024-11-17,Smartphone,Electronics,1,1748,,Female,East,E-wallet,1748,11,4
+251,2024-01-02,Camera,Electronics,4,1482,19.0,Male,South,E-wallet,5928,1,1
+877,2024-01-23,TV,Accessories,1,1726,48.0,Male,North,Cash,1726,1,1
+5,2024-11-26,Keyboard,Electronics,3,1981,28.0,Male,North,E-wallet,5943,11,4
+119,2024-12-27,Keyboard,Electronics,3,817,45.0,Male,West,Credit Card,2451,12,4
+801,2024-03-30,Smartphone,Accessories,3,1140,63.0,Female,South,E-wallet,3420,3,1
+374,2024-08-28,Smartphone,Accessories,3,373,49.0,Female,North,Cash,1119,8,3
+65,2024-11-01,Keyboard,Accessories,1,784,22.0,Male,South,Credit Card,784,11,4
+146,2024-02-03,TV,Accessories,3,215,55.0,Male,North,Cash,645,2,1
+224,2024-10-12,Laptop,Accessories,1,960,27.0,Female,East,Credit Card,960,10,4
+239,2024-03-12,Speaker,Accessories,4,792,57.0,Male,North,Credit Card,3168,3,1
+177,2024-01-13,Tablet,Accessories,3,1214,63.0,Female,West,E-wallet,3642,1,1
+779,2024-07-13,Camera,Electronics,2,1205,41.0,Male,East,Credit Card,2410,7,3
+853,2024-09-04,Mouse,Accessories,3,423,52.0,Female,West,Cash,1269,9,3
+282,2024-12-06,Camera,Accessories,3,1060,61.0,Female,East,E-wallet,3180,12,4
+63,2024-02-29,Mouse,Accessories,1,213,40.0,Female,South,Cash,213,2,1
+217,2024-04-13,TV,Electronics,3,1892,34.0,Female,West,Credit Card,5676,4,2
+854,2024-05-09,Mouse,Electronics,2,1181,18.0,Female,North,Cash,2362,5,2
+827,2024-08-06,Smartphone,Accessories,1,253,48.0,Male,South,Cash,253,8,3
+795,2024-08-05,Speaker,Accessories,1,1527,48.0,Female,North,Credit Card,1527,8,3
+689,2024-07-17,Speaker,Accessories,4,1751,59.0,Male,East,E-wallet,7004,7,3
+461,2024-05-28,Smartphone,Electronics,4,1978,59.0,Female,East,Cash,7912,5,2
+929,2024-09-21,Headphones,Electronics,3,1389,51.0,Female,North,Credit Card,4167,9,3
+610,2024-12-20,TV,Accessories,4,414,,Male,North,E-wallet,1656,12,4
+105,2024-11-26,Headphones,Electronics,4,1838,39.0,Male,South,E-wallet,7352,11,4
+99,2024-10-15,Headphones,Accessories,4,1164,30.0,Male,North,E-wallet,4656,10,4
+511,2024-09-15,Camera,Electronics,1,204,42.0,Male,West,Cash,204,9,3
+385,2024-12-19,Keyboard,Electronics,1,1316,35.0,Female,West,Cash,1316,12,4
+405,2024-04-04,Camera,Accessories,1,1524,29.0,Male,North,Cash,1524,4,2
+823,2024-04-24,Keyboard,Accessories,4,1401,57.0,Female,West,E-wallet,5604,4,2
+518,2024-04-04,Tablet,Accessories,1,453,34.0,Male,North,Cash,453,4,2
+476,2024-11-10,Mouse,Accessories,4,1115,32.0,Male,South,Credit Card,4460,11,4
+709,2024-02-27,Keyboard,Electronics,1,1872,59.0,Female,West,Cash,1872,2,1
+863,2024-11-22,Smartphone,Electronics,1,832,32.0,Female,West,Cash,832,11,4
+645,2024-09-23,Camera,Electronics,2,1703,32.0,Male,North,E-wallet,3406,9,3
+870,2024-02-20,TV,Accessories,3,808,56.0,Female,West,Cash,2424,2,1
+771,2024-08-17,Mouse,Electronics,4,1379,30.0,Female,East,Credit Card,5516,8,3
+437,2024-12-26,Tablet,Accessories,2,750,34.0,Female,South,E-wallet,1500,12,4
+23,2024-07-08,Keyboard,Electronics,1,923,49.0,Female,South,Credit Card,923,7,3
+565,2024-07-04,Tablet,Accessories,4,1046,26.0,Female,West,E-wallet,4184,7,3
+677,2024-06-13,TV,Accessories,1,760,57.0,Female,West,E-wallet,760,6,2
+714,2024-06-26,Headphones,Electronics,3,198,37.0,Female,East,Cash,594,6,2
+458,2024-02-18,Speaker,Accessories,2,687,43.0,Female,East,Credit Card,1374,2,1
+83,2024-07-25,TV,Accessories,3,381,44.0,Male,West,E-wallet,1143,7,3
+145,2024-04-07,Smartwatch,Electronics,2,502,38.0,Female,West,Cash,1004,4,2
+85,2024-11-11,TV,Accessories,1,1232,35.0,Male,East,E-wallet,1232,11,4
+78,2024-03-02,Tablet,Accessories,3,799,30.0,Female,North,E-wallet,2397,3,1
+457,2024-06-29,Smartphone,Accessories,3,298,33.0,Female,East,E-wallet,894,6,2
+878,2024-01-24,Camera,Electronics,1,1426,26.0,Female,North,E-wallet,1426,1,1
+1,2024-04-20,Smartphone,Electronics,3,426,29.0,Female,South,E-wallet,1278,4,2
+51,2024-03-12,Tablet,Accessories,4,253,61.0,Male,South,E-wallet,1012,3,1
+685,2024-09-01,Camera,Electronics,2,651,55.0,Male,East,Cash,1302,9,3
+717,2024-06-03,Smartwatch,Accessories,2,1768,36.0,Female,North,E-wallet,3536,6,2
+772,2024-04-25,Speaker,Accessories,2,504,24.0,Male,East,Credit Card,1008,4,2
+446,2024-03-24,Mouse,Accessories,4,561,52.0,Female,East,Cash,2244,3,1
+449,2024-05-03,Tablet,Accessories,2,231,35.0,Female,North,Credit Card,462,5,2
+103,2024-07-30,Laptop,Accessories,2,1796,40.0,Female,East,E-wallet,3592,7,3
+436,2024-06-13,Speaker,Accessories,3,738,59.0,Male,North,Cash,2214,6,2
+861,2024-08-19,Smartphone,Electronics,2,519,37.0,Male,South,E-wallet,1038,8,3
+271,2024-02-20,Speaker,Electronics,3,693,32.0,Female,West,Credit Card,2079,2,1
+107,2024-01-30,TV,Electronics,1,584,62.0,Male,North,Credit Card,584,1,1
