@@ -225,7 +225,7 @@ Thông qua việc áp dụng các kỹ thuật **phân tích dữ liệu (Data A
 
 ## 📁 Cấu Trúc Dự Án
 
-```
+````
 PhanTichVaTrucQuanHoa/
 │
 ├── README.MD                          # Tài liệu tổng quan (this file)
@@ -240,7 +240,7 @@ PhanTichVaTrucQuanHoa/
 │   │   ├── customer_segments.csv
 │   │   └── monthly_revenue.csv
 │   │
-│   └── visualizations/                # Generated figures & interactive HTML exports
+│   └── img/                # Generated figures & interactive HTML exports
 │       ├── time_trends.png
 │       ├── customer_segments.png
 │       ├── product_analysis.png
@@ -255,7 +255,7 @@ PhanTichVaTrucQuanHoa/
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly scipy
-```
+````
 
 ### Bước 2: Chuẩn bị dữ liệu
 
